@@ -1,6 +1,8 @@
 #ifndef UTILITY_H
 #define UTILITY_H
 
+#include <sys/stat.h>
+#include <fcntl.h>
 #include <string>
 #include <vector>
 #include <random>
@@ -22,7 +24,7 @@ namespace utility
     size_t utf8_leng(std::string);
     std::string file_hash(const std::string);
     std::string mime_info(const char*);
-    static int fd_joystick;
+    static int fd_joystick  = open("/dev/jsinput/js0", O_RDONLY| O_NONBLOCK);;
     void populate_thread(boost::filesystem::path*);
     void populate();
     void monitor_udev_thread(void*);

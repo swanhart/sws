@@ -8,16 +8,19 @@
 
 1540334338 /home/eric/Dropbox/workspace/CB/sws/include/bluetooth.h
 
-1542060800 source:/home/eric/Dropbox/workspace/CB/sws/src/config.cpp
+1542310134 source:/home/eric/Dropbox/workspace/CB/sws/src/config.cpp
 	"config.h"
 
-1542060615 /home/eric/Dropbox/workspace/CB/sws/include/config.h
+1542309984 /home/eric/Dropbox/workspace/CB/sws/include/config.h
+	<linux/limits.h>
 	<string>
 	<map>
 	<boost/filesystem.hpp>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/ini_parser.hpp>
 	"joystick.h"
 
-1541790146 source:/home/eric/Dropbox/workspace/CB/sws/src/db.cpp
+1542310301 source:/home/eric/Dropbox/workspace/CB/sws/src/db.cpp
 	"db.h"
 
 1541789661 /home/eric/Dropbox/workspace/CB/sws/include/db.h
@@ -56,7 +59,10 @@
 	"playlist.h"
 	"track.h"
 
-1540334151 /home/eric/Dropbox/workspace/CB/sws/include/playlist.h
+1542299273 /home/eric/Dropbox/workspace/CB/sws/include/playlist.h
+	<string>
+	<list>
+	"track.h"
 
 1541697062 /home/eric/Dropbox/workspace/CB/sws/include/track.h
 	<string>
@@ -74,16 +80,12 @@
 1540334109 source:/home/eric/Dropbox/workspace/CB/sws/src/track.cpp
 	"track.h"
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/playbin.h
-	<gstreamermmconfig.h>
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/playbin.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gstreamermm/pipeline.h>
 	<gstreamermm/element.h>
-	<gstreamermm/enums.h>
 	<gstreamermm/sample.h>
-	<gstreamermm/videoinfo.h>
-	<gstreamermm/videoinfo.h>
 	<gstreamermm/taglist.h>
 	<gstreamermm/caps.h>
 	<gstreamermm/pad.h>
@@ -92,12 +94,12 @@
 	<gstreamermm/navigation.h>
 	<gstreamermm/colorbalance.h>
 
-1508936178 /usr/lib/x86_64-linux-gnu/gstreamermm-1.0/include/gstreamermmconfig.h
+1445645063 /usr/lib/x86_64-linux-gnu/gstreamermm-1.0/include/gstreamermmconfig.h
 	"glibmmconfig.h"
 
-1522592081 /usr/lib/x86_64-linux-gnu/glibmm-2.4/include/glibmmconfig.h
+1450265609 /usr/lib/x86_64-linux-gnu/glibmm-2.4/include/glibmmconfig.h
 
-1522592081 /usr/include/glibmm-2.4/glibmm/ustring.h
+1450265605 /usr/include/glibmm-2.4/glibmm/ustring.h
 	<glibmmconfig.h>
 	<glibmm/unicode.h>
 	<glib.h>
@@ -107,11 +109,11 @@
 	<string>
 	<cstddef>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/unicode.h
+1450265605 /usr/include/glibmm-2.4/glibmm/unicode.h
 	<glib.h>
 	<cctype>
 
-1537188774 /usr/include/glib-2.0/glib.h
+1537272221 /usr/include/glib-2.0/glib.h
 	<glib/galloca.h>
 	<glib/garray.h>
 	<glib/gasyncqueue.h>
@@ -175,7 +177,6 @@
 	<glib/gunicode.h>
 	<glib/gurifuncs.h>
 	<glib/gutils.h>
-	<glib/guuid.h>
 	<glib/gvarianttype.h>
 	<glib/gvariant.h>
 	<glib/gversion.h>
@@ -189,299 +190,293 @@
 	<glib/deprecated/gthread.h>
 	<glib/glib-autocleanups.h>
 
-1537188774 /usr/include/glib-2.0/glib/galloca.h
+1537272221 /usr/include/glib-2.0/glib/galloca.h
 	<glib/gtypes.h>
 	<alloca.h>
 	<alloca.h>
 	<malloc.h>
 
-1537188774 /usr/include/glib-2.0/glib/gtypes.h
+1537272221 /usr/include/glib-2.0/glib/gtypes.h
 	<glibconfig.h>
 	<glib/gmacros.h>
 	<glib/gversionmacros.h>
 	<time.h>
 
-1537188774 /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h
+1537272221 /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h
 	<glib/gmacros.h>
 	<limits.h>
 	<float.h>
 
-1537188774 /usr/include/glib-2.0/glib/gmacros.h
+1537272221 /usr/include/glib-2.0/glib/gmacros.h
 	<stddef.h>
 
-1537188774 /usr/include/glib-2.0/glib/gversionmacros.h
+1537272221 /usr/include/glib-2.0/glib/gversionmacros.h
 
-1537188774 /usr/include/glib-2.0/glib/garray.h
+1537272221 /usr/include/glib-2.0/glib/garray.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gasyncqueue.h
+1537272221 /usr/include/glib-2.0/glib/gasyncqueue.h
 	<glib/gthread.h>
 
-1537188774 /usr/include/glib-2.0/glib/gthread.h
+1537272221 /usr/include/glib-2.0/glib/gthread.h
 	<glib/gatomic.h>
 	<glib/gerror.h>
 	<glib/gutils.h>
 
-1537188774 /usr/include/glib-2.0/glib/gatomic.h
+1537272221 /usr/include/glib-2.0/glib/gatomic.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gerror.h
+1537272221 /usr/include/glib-2.0/glib/gerror.h
 	<stdarg.h>
 	<glib/gquark.h>
 
-1537188774 /usr/include/glib-2.0/glib/gquark.h
+1537272221 /usr/include/glib-2.0/glib/gquark.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gutils.h
+1537272221 /usr/include/glib-2.0/glib/gutils.h
 	<glib/gtypes.h>
 	<stdarg.h>
-	<stdlib.h>
 
-1537188774 /usr/include/glib-2.0/glib/gbacktrace.h
+1537272221 /usr/include/glib-2.0/glib/gbacktrace.h
 	<glib/gtypes.h>
-	<sys/select.h>
 	<signal.h>
 
-1537188774 /usr/include/glib-2.0/glib/gbase64.h
+1537272221 /usr/include/glib-2.0/glib/gbase64.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gbitlock.h
+1537272221 /usr/include/glib-2.0/glib/gbitlock.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gbookmarkfile.h
+1537272221 /usr/include/glib-2.0/glib/gbookmarkfile.h
 	<glib/gerror.h>
 	<time.h>
 
-1537188774 /usr/include/glib-2.0/glib/gbytes.h
+1537272221 /usr/include/glib-2.0/glib/gbytes.h
 	<glib/gtypes.h>
 	<glib/garray.h>
 
-1537188774 /usr/include/glib-2.0/glib/gcharset.h
+1537272221 /usr/include/glib-2.0/glib/gcharset.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gchecksum.h
+1537272221 /usr/include/glib-2.0/glib/gchecksum.h
 	<glib/gtypes.h>
 	<glib/gbytes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gconvert.h
+1537272221 /usr/include/glib-2.0/glib/gconvert.h
 	<glib/gerror.h>
 
-1537188774 /usr/include/glib-2.0/glib/gdataset.h
+1537272221 /usr/include/glib-2.0/glib/gdataset.h
 	<glib/gquark.h>
 
-1537188774 /usr/include/glib-2.0/glib/gdate.h
+1537272221 /usr/include/glib-2.0/glib/gdate.h
 	<time.h>
 	<glib/gtypes.h>
 	<glib/gquark.h>
 
-1537188774 /usr/include/glib-2.0/glib/gdatetime.h
+1537272221 /usr/include/glib-2.0/glib/gdatetime.h
 	<glib/gtimezone.h>
 
-1537188774 /usr/include/glib-2.0/glib/gtimezone.h
+1537272221 /usr/include/glib-2.0/glib/gtimezone.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gdir.h
+1537272221 /usr/include/glib-2.0/glib/gdir.h
 	<glib/gerror.h>
 	<dirent.h>
 
-1537188774 /usr/include/glib-2.0/glib/genviron.h
+1537272221 /usr/include/glib-2.0/glib/genviron.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gfileutils.h
-	<glibconfig.h>
+1537272221 /usr/include/glib-2.0/glib/gfileutils.h
 	<glib/gerror.h>
 
-1537188774 /usr/include/glib-2.0/glib/ggettext.h
+1537272221 /usr/include/glib-2.0/glib/ggettext.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/ghash.h
+1537272221 /usr/include/glib-2.0/glib/ghash.h
 	<glib/gtypes.h>
 	<glib/glist.h>
 
-1537188774 /usr/include/glib-2.0/glib/glist.h
+1537272221 /usr/include/glib-2.0/glib/glist.h
 	<glib/gmem.h>
 	<glib/gnode.h>
 
-1537188774 /usr/include/glib-2.0/glib/gmem.h
+1537272221 /usr/include/glib-2.0/glib/gmem.h
 	<glib/gutils.h>
 
-1537188774 /usr/include/glib-2.0/glib/gnode.h
+1537272221 /usr/include/glib-2.0/glib/gnode.h
 	<glib/gmem.h>
 
-1537188774 /usr/include/glib-2.0/glib/ghmac.h
+1537272221 /usr/include/glib-2.0/glib/ghmac.h
 	<glib/gtypes.h>
 	"gchecksum.h"
 
-1537188774 /usr/include/glib-2.0/glib/ghook.h
+1537272221 /usr/include/glib-2.0/glib/ghook.h
 	<glib/gmem.h>
 
-1537188774 /usr/include/glib-2.0/glib/ghostutils.h
+1537272221 /usr/include/glib-2.0/glib/ghostutils.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/giochannel.h
+1537272221 /usr/include/glib-2.0/glib/giochannel.h
 	<glib/gconvert.h>
 	<glib/gmain.h>
 	<glib/gstring.h>
 
-1537188774 /usr/include/glib-2.0/glib/gmain.h
+1537272221 /usr/include/glib-2.0/glib/gmain.h
 	<glib/gpoll.h>
 	<glib/gslist.h>
 	<glib/gthread.h>
 
-1537188774 /usr/include/glib-2.0/glib/gpoll.h
+1537272221 /usr/include/glib-2.0/glib/gpoll.h
 	<glibconfig.h>
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gslist.h
+1537272221 /usr/include/glib-2.0/glib/gslist.h
 	<glib/gmem.h>
 	<glib/gnode.h>
 
-1537188774 /usr/include/glib-2.0/glib/gstring.h
+1537272221 /usr/include/glib-2.0/glib/gstring.h
 	<glib/gtypes.h>
 	<glib/gunicode.h>
 	<glib/gbytes.h>
 	<glib/gutils.h>
 
-1537188774 /usr/include/glib-2.0/glib/gunicode.h
+1537272221 /usr/include/glib-2.0/glib/gunicode.h
 	<glib/gerror.h>
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gkeyfile.h
+1537272221 /usr/include/glib-2.0/glib/gkeyfile.h
+	<glib/gerror.h>
+
+1537272221 /usr/include/glib-2.0/glib/gmappedfile.h
 	<glib/gbytes.h>
 	<glib/gerror.h>
 
-1537188774 /usr/include/glib-2.0/glib/gmappedfile.h
-	<glib/gbytes.h>
-	<glib/gerror.h>
-
-1537188774 /usr/include/glib-2.0/glib/gmarkup.h
+1537272221 /usr/include/glib-2.0/glib/gmarkup.h
 	<stdarg.h>
 	<glib/gerror.h>
 	<glib/gslist.h>
 
-1537188774 /usr/include/glib-2.0/glib/gmessages.h
+1537272221 /usr/include/glib-2.0/glib/gmessages.h
 	<stdarg.h>
 	<glib/gtypes.h>
 	<glib/gmacros.h>
-	<glib/gvariant.h>
 
-1537188774 /usr/include/glib-2.0/glib/gvariant.h
+1537272221 /usr/include/glib-2.0/glib/gvariant.h
 	<glib/gvarianttype.h>
 	<glib/gstring.h>
 	<glib/gbytes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gvarianttype.h
+1537272221 /usr/include/glib-2.0/glib/gvarianttype.h
+	<glib/gmessages.h>
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/goption.h
+1537272221 /usr/include/glib-2.0/glib/goption.h
 	<glib/gerror.h>
 	<glib/gquark.h>
 
-1537188774 /usr/include/glib-2.0/glib/gpattern.h
+1537272221 /usr/include/glib-2.0/glib/gpattern.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gprimes.h
+1537272221 /usr/include/glib-2.0/glib/gprimes.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gqsort.h
+1537272221 /usr/include/glib-2.0/glib/gqsort.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gqueue.h
+1537272221 /usr/include/glib-2.0/glib/gqueue.h
 	<glib/glist.h>
 
-1537188774 /usr/include/glib-2.0/glib/grand.h
+1537272221 /usr/include/glib-2.0/glib/grand.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gregex.h
+1537272221 /usr/include/glib-2.0/glib/gregex.h
 	<glib/gerror.h>
 	<glib/gstring.h>
 
-1537188774 /usr/include/glib-2.0/glib/gscanner.h
+1537272221 /usr/include/glib-2.0/glib/gscanner.h
 	<glib/gdataset.h>
 	<glib/ghash.h>
 
-1537188774 /usr/include/glib-2.0/glib/gsequence.h
+1537272221 /usr/include/glib-2.0/glib/gsequence.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gshell.h
+1537272221 /usr/include/glib-2.0/glib/gshell.h
 	<glib/gerror.h>
 
-1537188774 /usr/include/glib-2.0/glib/gslice.h
+1537272221 /usr/include/glib-2.0/glib/gslice.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gspawn.h
+1537272221 /usr/include/glib-2.0/glib/gspawn.h
 	<glib/gerror.h>
 
-1537188774 /usr/include/glib-2.0/glib/gstrfuncs.h
+1537272221 /usr/include/glib-2.0/glib/gstrfuncs.h
 	<stdarg.h>
 	<glib/gmacros.h>
 	<glib/gtypes.h>
-	<glib/gerror.h>
 
-1537188774 /usr/include/glib-2.0/glib/gstringchunk.h
+1537272221 /usr/include/glib-2.0/glib/gstringchunk.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gtestutils.h
+1537272221 /usr/include/glib-2.0/glib/gtestutils.h
 	<glib/gmessages.h>
 	<glib/gstring.h>
 	<glib/gerror.h>
 	<glib/gslist.h>
-	<string.h>
 
-1537188774 /usr/include/glib-2.0/glib/gthreadpool.h
+1537272221 /usr/include/glib-2.0/glib/gthreadpool.h
 	<glib/gthread.h>
 
-1537188774 /usr/include/glib-2.0/glib/gtimer.h
+1537272221 /usr/include/glib-2.0/glib/gtimer.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gtrashstack.h
+1537272221 /usr/include/glib-2.0/glib/gtrashstack.h
 	<glib/gutils.h>
 
-1537188774 /usr/include/glib-2.0/glib/gtree.h
+1537272221 /usr/include/glib-2.0/glib/gtree.h
 	<glib/gnode.h>
 
-1537188774 /usr/include/glib-2.0/glib/gurifuncs.h
+1537272221 /usr/include/glib-2.0/glib/gurifuncs.h
 	<glib/gtypes.h>
 
 1537188774 /usr/include/glib-2.0/glib/guuid.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gversion.h
+1537272221 /usr/include/glib-2.0/glib/gversion.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/gwin32.h
+1537272221 /usr/include/glib-2.0/glib/gwin32.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/deprecated/gallocator.h
+1537272221 /usr/include/glib-2.0/glib/deprecated/gallocator.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/deprecated/gcache.h
+1537272221 /usr/include/glib-2.0/glib/deprecated/gcache.h
 	<glib/glist.h>
 
-1537188774 /usr/include/glib-2.0/glib/deprecated/gcompletion.h
+1537272221 /usr/include/glib-2.0/glib/deprecated/gcompletion.h
 	<glib/glist.h>
 
-1537188774 /usr/include/glib-2.0/glib/deprecated/gmain.h
+1537272221 /usr/include/glib-2.0/glib/deprecated/gmain.h
 	<glib/gmain.h>
 
-1537188774 /usr/include/glib-2.0/glib/deprecated/grel.h
+1537272221 /usr/include/glib-2.0/glib/deprecated/grel.h
 	<glib/gtypes.h>
 
-1537188774 /usr/include/glib-2.0/glib/deprecated/gthread.h
+1537272221 /usr/include/glib-2.0/glib/deprecated/gthread.h
 	<glib/gthread.h>
 	<sys/types.h>
 	<pthread.h>
 
-1537188774 /usr/include/glib-2.0/glib/glib-autocleanups.h
+1537272221 /usr/include/glib-2.0/glib/glib-autocleanups.h
 
-1521066196 /usr/include/sigc++-2.0/sigc++/sigc++.h
+1447672307 /usr/include/sigc++-2.0/sigc++/sigc++.h
 	<sigc++/signal.h>
 	<sigc++/connection.h>
 	<sigc++/trackable.h>
 	<sigc++/adaptors/adaptors.h>
 	<sigc++/functors/functors.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/signal.h
+1447672307 /usr/include/sigc++-2.0/sigc++/signal.h
 	<list>
 	<sigc++/signal_base.h>
 	<sigc++/type_traits.h>
@@ -489,7 +484,7 @@
 	<sigc++/functors/slot.h>
 	<sigc++/functors/mem_fun.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/signal_base.h
+1447672307 /usr/include/sigc++-2.0/sigc++/signal_base.h
 	<cstddef>
 	<list>
 	<sigc++config.h>
@@ -498,26 +493,26 @@
 	<sigc++/functors/slot.h>
 	<sigc++/functors/mem_fun.h>
 
-1521066196 /usr/lib/x86_64-linux-gnu/sigc++-2.0/include/sigc++config.h
+1447672307 /usr/lib/x86_64-linux-gnu/sigc++-2.0/include/sigc++config.h
 
-1521066196 /usr/include/sigc++-2.0/sigc++/type_traits.h
+1447672307 /usr/include/sigc++-2.0/sigc++/type_traits.h
 	<sigc++config.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/trackable.h
+1447672307 /usr/include/sigc++-2.0/sigc++/trackable.h
 	<list>
 	<sigc++config.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/functors/slot.h
+1447672306 /usr/include/sigc++-2.0/sigc++/functors/slot.h
 	<sigc++/trackable.h>
 	<sigc++/visit_each.h>
 	<sigc++/adaptors/adaptor_trait.h>
 	<sigc++/functors/slot_base.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/visit_each.h
+1447672307 /usr/include/sigc++-2.0/sigc++/visit_each.h
 	<sigc++/type_traits.h>
 	<type_traits>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/adaptor_trait.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/adaptor_trait.h
 	<sigc++config.h>
 	<sigc++/visit_each.h>
 	<sigc++/functors/functor_trait.h>
@@ -525,37 +520,37 @@
 	<sigc++/functors/mem_fun.h>
 	<sigc++/adaptors/deduce_result_type.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/functors/functor_trait.h
+1447672306 /usr/include/sigc++-2.0/sigc++/functors/functor_trait.h
 	<sigc++/type_traits.h>
 	<type_traits>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/functors/ptr_fun.h
+1447672306 /usr/include/sigc++-2.0/sigc++/functors/ptr_fun.h
 	<sigc++/type_traits.h>
 	<sigc++/functors/functor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/functors/mem_fun.h
+1447672306 /usr/include/sigc++-2.0/sigc++/functors/mem_fun.h
 	<sigc++/type_traits.h>
 	<sigc++/functors/functor_trait.h>
 	<sigc++/limit_reference.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/limit_reference.h
+1447672307 /usr/include/sigc++-2.0/sigc++/limit_reference.h
 	<sigc++/visit_each.h>
 	<sigc++/type_traits.h>
 	<sigc++/trackable.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/deduce_result_type.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/deduce_result_type.h
 	<sigc++/functors/functor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/functors/slot_base.h
+1447672306 /usr/include/sigc++-2.0/sigc++/functors/slot_base.h
 	<sigc++config.h>
 	<sigc++/trackable.h>
 	<sigc++/functors/functor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/connection.h
+1447672307 /usr/include/sigc++-2.0/sigc++/connection.h
 	<sigc++config.h>
 	<sigc++/signal.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/adaptors.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/adaptors.h
 	<sigc++/adaptors/bind.h>
 	<sigc++/adaptors/bind_return.h>
 	<sigc++/adaptors/hide.h>
@@ -565,72 +560,76 @@
 	<sigc++/adaptors/exception_catch.h>
 	<sigc++/adaptors/track_obj.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/bind.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/bind.h
 	<sigc++/adaptors/adaptor_trait.h>
 	<sigc++/adaptors/bound_argument.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/bound_argument.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/bound_argument.h
 	<sigc++/limit_reference.h>
 	<sigc++/reference_wrapper.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/reference_wrapper.h
-	<functional>
+1447672307 /usr/include/sigc++-2.0/sigc++/reference_wrapper.h
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/bind_return.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/bind_return.h
 	<sigc++/adaptors/adaptor_trait.h>
 	<sigc++/adaptors/bound_argument.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/hide.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/hide.h
 	<sigc++/adaptors/adaptor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/retype_return.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/retype_return.h
 	<sigc++/adaptors/adaptor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/retype.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/retype.h
 	<sigc++/adaptors/adaptor_trait.h>
 	<sigc++/functors/ptr_fun.h>
 	<sigc++/functors/mem_fun.h>
 	<sigc++/functors/slot.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/compose.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/compose.h
 	<sigc++/adaptors/adaptor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/exception_catch.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/exception_catch.h
 	<sigc++/adaptors/adaptor_trait.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/adaptors/track_obj.h
+1447672306 /usr/include/sigc++-2.0/sigc++/adaptors/track_obj.h
 	<sigc++/adaptors/adaptor_trait.h>
 	<sigc++/limit_reference.h>
 
-1521066196 /usr/include/sigc++-2.0/sigc++/functors/functors.h
+1447672306 /usr/include/sigc++-2.0/sigc++/functors/functors.h
 	<sigc++/functors/slot.h>
 	<sigc++/functors/ptr_fun.h>
 	<sigc++/functors/mem_fun.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/pipeline.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/pipeline.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gstreamermm/bin.h>
 	<gstreamermm/clock.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/bin.h
+1445645062 /usr/include/gstreamermm-1.0/gstreamermm/bin.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gstreamermm/element.h>
 	<gstreamermm/childproxy.h>
+	<gstreamermm/pad.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/element.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/element.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
-	<gst/gstelement.h>
+	<gst/gst.h>
 	<gstreamermm/object.h>
 	<gstreamermm/clock.h>
 	<gstreamermm/enums.h>
 	<gstreamermm/error.h>
+	<gstreamermm/event.h>
 	<gstreamermm/message.h>
+	<gstreamermm/pad.h>
+	<gstreamermm/query.h>
+	<gstreamermm/context.h>
+	<glibmm/arrayhandle.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstelement.h
-	<glib.h>
+1473167766 /usr/include/gstreamer-1.0/gst/gstelement.h
 	<gst/gstconfig.h>
 	<gst/gstobject.h>
 	<gst/gstpad.h>
@@ -643,17 +642,16 @@
 	<gst/gstmessage.h>
 	<gst/gstquery.h>
 	<gst/gsttaglist.h>
-	<gst/gstcontext.h>
 
 1527080062 /usr/include/gstreamer-1.0/gst/gstconfig.h
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstobject.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstobject.h
 	<gst/gstconfig.h>
 	<glib-object.h>
 	<gst/gstcontrolbinding.h>
 	<gst/gstcontrolsource.h>
 
-1537188774 /usr/include/glib-2.0/glib-object.h
+1537272221 /usr/include/glib-2.0/glib-object.h
 	<gobject/gbinding.h>
 	<gobject/gboxed.h>
 	<gobject/genums.h>
@@ -670,11 +668,11 @@
 	<gobject/gvaluetypes.h>
 	<gobject/gobject-autocleanups.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gbinding.h
+1537272234 /usr/include/glib-2.0/gobject/gbinding.h
 	<glib.h>
 	<gobject/gobject.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gobject.h
+1537272234 /usr/include/glib-2.0/gobject/gobject.h
 	<gobject/gtype.h>
 	<gobject/gvalue.h>
 	<gobject/gparam.h>
@@ -682,77 +680,77 @@
 	<gobject/gsignal.h>
 	<gobject/gboxed.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gtype.h
+1537272234 /usr/include/glib-2.0/gobject/gtype.h
 	<glib.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gvalue.h
+1537272234 /usr/include/glib-2.0/gobject/gvalue.h
 	<gobject/gtype.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gparam.h
+1537272234 /usr/include/glib-2.0/gobject/gparam.h
 	<gobject/gvalue.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gclosure.h
+1537272234 /usr/include/glib-2.0/gobject/gclosure.h
 	<gobject/gtype.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gsignal.h
+1537272234 /usr/include/glib-2.0/gobject/gsignal.h
 	<gobject/gclosure.h>
 	<gobject/gvalue.h>
 	<gobject/gparam.h>
 	<gobject/gmarshal.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gmarshal.h
+1537272234 /usr/include/glib-2.0/gobject/gmarshal.h
 
-1537188774 /usr/include/glib-2.0/gobject/gboxed.h
+1537272234 /usr/include/glib-2.0/gobject/gboxed.h
 	<gobject/gtype.h>
 	<gobject/glib-types.h>
 
-1537188774 /usr/include/glib-2.0/gobject/glib-types.h
+1537272234 /usr/include/glib-2.0/gobject/glib-types.h
 	<glib.h>
 
-1537188774 /usr/include/glib-2.0/gobject/genums.h
+1537272234 /usr/include/glib-2.0/gobject/genums.h
 	<gobject/gtype.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gparamspecs.h
+1537272234 /usr/include/glib-2.0/gobject/gparamspecs.h
 	<gobject/gvalue.h>
 	<gobject/genums.h>
 	<gobject/gboxed.h>
 	<gobject/gobject.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gsourceclosure.h
+1537272234 /usr/include/glib-2.0/gobject/gsourceclosure.h
 	<gobject/gclosure.h>
 	<gobject/glib-types.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gtypemodule.h
+1537272234 /usr/include/glib-2.0/gobject/gtypemodule.h
 	<gobject/gobject.h>
 	<gobject/genums.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gtypeplugin.h
+1537272234 /usr/include/glib-2.0/gobject/gtypeplugin.h
 	<gobject/gtype.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gvaluearray.h
+1537272234 /usr/include/glib-2.0/gobject/gvaluearray.h
 	<gobject/gvalue.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gvaluetypes.h
+1537272234 /usr/include/glib-2.0/gobject/gvaluetypes.h
 	<gobject/gvalue.h>
 
-1537188774 /usr/include/glib-2.0/gobject/gobject-autocleanups.h
+1537272234 /usr/include/glib-2.0/gobject/gobject-autocleanups.h
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstcontrolbinding.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstcontrolbinding.h
 	<gst/gstconfig.h>
 	<glib-object.h>
 	<gst/gstcontrolsource.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstcontrolsource.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstcontrolsource.h
 	<gst/gstconfig.h>
 	<glib-object.h>
 	<gst/gstclock.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstclock.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstclock.h
 	<gst/gstconfig.h>
 	<glib.h>
 	<gst/gstobject.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstpad.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstpad.h
 	<gst/gstconfig.h>
 	<glib.h>
 	<gst/gstobject.h>
@@ -764,65 +762,62 @@
 	<gst/gstquery.h>
 	<gst/gsttask.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstbuffer.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstbuffer.h
 	<gst/gstminiobject.h>
 	<gst/gstclock.h>
 	<gst/gstallocator.h>
-	<gst/gstcaps.h>
-	<gst/gstmeta.h>
 	<gst/gstmeta.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstminiobject.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstminiobject.h
 	<gst/gstconfig.h>
 	<glib-object.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstallocator.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstallocator.h
 	<gst/gstmemory.h>
 	<gst/gstobject.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstmemory.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstmemory.h
 	<gst/gstconfig.h>
 	<glib-object.h>
 	<gst/gstminiobject.h>
-	<gst/gstobject.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstcaps.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstcaps.h
 	<gst/gstconfig.h>
 	<gst/gstminiobject.h>
 	<gst/gststructure.h>
 	<gst/gstcapsfeatures.h>
 	<gst/glib-compat.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gststructure.h
+1473167766 /usr/include/gstreamer-1.0/gst/gststructure.h
 	<gst/gstconfig.h>
 	<glib-object.h>
 	<gst/gstclock.h>
 	<gst/gstdatetime.h>
 	<gst/glib-compat.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstdatetime.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstdatetime.h
 	<gst/gstconfig.h>
 	<time.h>
 	<glib.h>
 	<glib-object.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/glib-compat.h
+1473167766 /usr/include/gstreamer-1.0/gst/glib-compat.h
 	<glib.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstcapsfeatures.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstcapsfeatures.h
 	<gst/gstconfig.h>
 	<gst/glib-compat.h>
 	<glib-object.h>
 	<glib.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstmeta.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstmeta.h
 	<glib.h>
 	<gst/gstbuffer.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstbufferlist.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstbufferlist.h
 	<gst/gstbuffer.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstpadtemplate.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstpadtemplate.h
 	<gst/gstconfig.h>
 	<gst/gstobject.h>
 	<gst/gstbuffer.h>
@@ -831,7 +826,7 @@
 	<gst/gstquery.h>
 	<gst/gsttask.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstevent.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstevent.h
 	<gst/gstminiobject.h>
 	<gst/gstformat.h>
 	<gst/gstobject.h>
@@ -841,35 +836,31 @@
 	<gst/gstsegment.h>
 	<gst/gstmessage.h>
 	<gst/gstcontext.h>
-	<gst/gststreams.h>
-	<gst/gsttoc.h>
-	<gst/gststreamcollection.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstformat.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstformat.h
 	<glib.h>
 	<gst/gstiterator.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstiterator.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstiterator.h
 	<glib-object.h>
 	<gst/gstconfig.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttaglist.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttaglist.h
 	<gst/gstdatetime.h>
 	<gst/gstsample.h>
 	<gst/gstbuffer.h>
 	<gst/glib-compat.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstsample.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstsample.h
 	<gst/gstbuffer.h>
 	<gst/gstbufferlist.h>
 	<gst/gstcaps.h>
 	<gst/gstsegment.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstsegment.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstsegment.h
 	<gst/gstformat.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstmessage.h
-	<glib.h>
+1473167766 /usr/include/gstreamer-1.0/gst/gstmessage.h
 	<gst/gstminiobject.h>
 	<gst/gstobject.h>
 	<gst/gstelement.h>
@@ -878,16 +869,11 @@
 	<gst/gstquery.h>
 	<gst/gsttoc.h>
 	<gst/gstdevice.h>
-	<gst/gststreams.h>
-	<gst/gststreamcollection.h>
-	<gst/gstquery.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstquery.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstquery.h
 	<glib.h>
-	<glib-object.h>
-	<gst/gstconfig.h>
-	<gst/gstminiobject.h>
 	<gst/gstiterator.h>
+	<gst/gstminiobject.h>
 	<gst/gststructure.h>
 	<gst/gstformat.h>
 	<gst/gstpad.h>
@@ -895,19 +881,19 @@
 	<gst/gsttoc.h>
 	<gst/gstcontext.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttoc.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttoc.h
 	<gst/gstconfig.h>
 	<gst/gstminiobject.h>
 	<gst/gststructure.h>
 	<gst/gsttaglist.h>
 	<gst/gstformat.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstcontext.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstcontext.h
 	<glib.h>
 	<gst/gstminiobject.h>
 	<gst/gststructure.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstdevice.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstdevice.h
 	<gst/gstelement.h>
 	<gst/gstcaps.h>
 
@@ -920,18 +906,18 @@
 	<gst/gststreamcollection.h>
 	<gst/gststreams.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttask.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttask.h
 	<gst/gstobject.h>
 	<gst/gsttaskpool.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttaskpool.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttaskpool.h
 	<gst/gstobject.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstbus.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstbus.h
 	<gst/gstmessage.h>
 	<gst/gstclock.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstelementfactory.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstelementfactory.h
 	<gst/gstconfig.h>
 	<gst/gstelement.h>
 	<gst/gstpad.h>
@@ -939,37 +925,36 @@
 	<gst/gstpluginfeature.h>
 	<gst/gsturi.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstplugin.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstplugin.h
 	<gst/gstconfig.h>
 	<gst/gstobject.h>
 	<gst/gstmacros.h>
 	<gst/gststructure.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstmacros.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstmacros.h
 	<glib.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstpluginfeature.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstpluginfeature.h
 	<glib-object.h>
 	<gst/gstobject.h>
 	<gst/gstplugin.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsturi.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsturi.h
 	<glib.h>
 	<glib-object.h>
-	<gst/gstconfig.h>
 	<gst/gstelement.h>
+	<gst/gstconfig.h>
 	"gstminiobject.h"
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/object.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/object.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
 	<glibmm/object.h>
 	<glibmm/listhandle.h>
 	<glibmm/threads.h>
-	<gstreamermm/clockutils.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gst.h
+1473167766 /usr/include/gstreamer-1.0/gst/gst.h
 	<glib.h>
 	<gst/glib-compat.h>
 	<gst/gstenumtypes.h>
@@ -989,7 +974,6 @@
 	<gst/gstdevice.h>
 	<gst/gstdevicemonitor.h>
 	<gst/gstdeviceprovider.h>
-	<gst/gstdynamictypefactory.h>
 	<gst/gstelement.h>
 	<gst/gstelementmetadata.h>
 	<gst/gsterror.h>
@@ -1002,7 +986,6 @@
 	<gst/gstmeta.h>
 	<gst/gstminiobject.h>
 	<gst/gstobject.h>
-	<gst/gststreamcollection.h>
 	<gst/gstpad.h>
 	<gst/gstparamspecs.h>
 	<gst/gstpipeline.h>
@@ -1012,10 +995,8 @@
 	<gst/gstprotection.h>
 	<gst/gstquery.h>
 	<gst/gstregistry.h>
-	<gst/gstpromise.h>
 	<gst/gstsample.h>
 	<gst/gstsegment.h>
-	<gst/gststreams.h>
 	<gst/gststructure.h>
 	<gst/gstsystemclock.h>
 	<gst/gsttaglist.h>
@@ -1035,49 +1016,47 @@
 	<gst/gstparse.h>
 	<gst/gstcompat.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstenumtypes.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstenumtypes.h
 	<glib-object.h>
-	<gst/gstconfig.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstversion.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstversion.h
 	<glib.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstatomicqueue.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstatomicqueue.h
 	<glib.h>
 	<glib-object.h>
-	<gst/gstconfig.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstbin.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstbin.h
 	<gst/gstelement.h>
 	<gst/gstiterator.h>
 	<gst/gstbus.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstbufferpool.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstbufferpool.h
 	<gst/gstminiobject.h>
 	<gst/gstpad.h>
 	<gst/gstbuffer.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstchildproxy.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstchildproxy.h
 	<glib-object.h>
 	<gst/gst.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstdebugutils.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstdebugutils.h
 	<glib.h>
 	<glib-object.h>
 	<gst/gstconfig.h>
 	<gst/gstbin.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstdevicemonitor.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstdevicemonitor.h
 	<gst/gstobject.h>
 	<gst/gstdevice.h>
 	<gst/gstdeviceprovider.h>
 	<gst/gstdeviceproviderfactory.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstdeviceprovider.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstdeviceprovider.h
 	<gst/gstelement.h>
 	<gst/gstdeviceproviderfactory.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstdeviceproviderfactory.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstdeviceproviderfactory.h
 	<gst/gstconfig.h>
 	<gst/gstplugin.h>
 	<gst/gstpluginfeature.h>
@@ -1088,47 +1067,47 @@
 	<gst/gstplugin.h>
 	<gst/gstpluginfeature.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstelementmetadata.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstelementmetadata.h
 	<glib.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsterror.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsterror.h
 	<glib.h>
 	<glib-object.h>
 	<errno.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstghostpad.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstghostpad.h
 	<gst/gstpad.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstinfo.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstinfo.h
 	<glib.h>
 	<glib-object.h>
 	<gst/gstconfig.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstparamspecs.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstparamspecs.h
 	<gst/gstvalue.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstvalue.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstvalue.h
 	<gst/gstconfig.h>
 	<gst/gstcaps.h>
 	<gst/gststructure.h>
 	<gst/gstcapsfeatures.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstpipeline.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstpipeline.h
 	<gst/gstbin.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstpoll.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstpoll.h
 	<glib.h>
 	<glib-object.h>
 	<gst/gstclock.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstpreset.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstpreset.h
 	<glib-object.h>
 	<gst/gstconfig.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstprotection.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstprotection.h
 	<gst/gst.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstregistry.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstregistry.h
 	<gst/gstconfig.h>
 	<gst/gstplugin.h>
 	<gst/gstpluginfeature.h>
@@ -1136,54 +1115,53 @@
 1527080062 /usr/include/gstreamer-1.0/gst/gstpromise.h
 	<gst/gst.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstsystemclock.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstsystemclock.h
 	<gst/gstclock.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttagsetter.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttagsetter.h
 	<gst/gst.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttocsetter.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttocsetter.h
 	<gst/gst.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttracer.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttracer.h
 	<glib.h>
 	<glib-object.h>
-	<gst/gstobject.h>
 	<gst/gstconfig.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttracerfactory.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttracerfactory.h
 	<gst/gstcaps.h>
 	<gst/gstplugin.h>
 	<gst/gstpluginfeature.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttracerrecord.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttracerrecord.h
 	<gst/gstobject.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttypefind.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttypefind.h
 	<gst/gstcaps.h>
 	<gst/gstplugin.h>
 	<gst/gstpluginfeature.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gsttypefindfactory.h
+1473167766 /usr/include/gstreamer-1.0/gst/gsttypefindfactory.h
 	<gst/gstcaps.h>
 	<gst/gstplugin.h>
 	<gst/gstpluginfeature.h>
 	<gst/gsttypefind.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstutils.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstutils.h
 	<glib.h>
 	<gst/gstconfig.h>
 	<gst/gstbin.h>
 	<gst/gstparse.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstparse.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstparse.h
 	<gst/gstelement.h>
 
-1527080062 /usr/include/gstreamer-1.0/gst/gstcompat.h
+1473167766 /usr/include/gstreamer-1.0/gst/gstcompat.h
 	<glib.h>
 	<gst/gstpad.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/object.h
+1450265605 /usr/include/glibmm-2.4/glibmm/object.h
 	<glibmmconfig.h>
 	<glibmm/objectbase.h>
 	<glibmm/wrap.h>
@@ -1194,7 +1172,7 @@
 	<glibmm/value.h>
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/objectbase.h
+1450265605 /usr/include/glibmm-2.4/glibmm/objectbase.h
 	<glibmmconfig.h>
 	<glibmm/class.h>
 	<glibmm/signalproxy.h>
@@ -1207,42 +1185,39 @@
 	<typeinfo>
 	<map>
 	<memory>
-	<mutex>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/class.h
+1450265605 /usr/include/glibmm-2.4/glibmm/class.h
 	<glib-object.h>
 	<glibmmconfig.h>
 	<vector>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/signalproxy.h
+1450265605 /usr/include/glibmm-2.4/glibmm/signalproxy.h
 	<sigc++/sigc++.h>
 	<glibmm/signalproxy_connectionnode.h>
 	<glibmm/ustring.h>
-	<utility>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/signalproxy_connectionnode.h
+1450265605 /usr/include/glibmm-2.4/glibmm/signalproxy_connectionnode.h
 	<sigc++/sigc++.h>
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/propertyproxy.h
+1450265605 /usr/include/glibmm-2.4/glibmm/propertyproxy.h
 	<glibmmconfig.h>
 	<glibmm/propertyproxy_base.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/propertyproxy_base.h
+1450265605 /usr/include/glibmm-2.4/glibmm/propertyproxy_base.h
 	<glibmmconfig.h>
 	<glibmm/value.h>
 	<glibmm/signalproxy.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/value.h
+1450265605 /usr/include/glibmm-2.4/glibmm/value.h
 	<glibmmconfig.h>
 	<glibmm/refptr.h>
 	<glibmm/ustring.h>
-	<glibmm/enums.h>
 	<glib-object.h>
 	<glibmm/value_custom.h>
 	<glibmm/value_basictypes.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/refptr.h
+1450265605 /usr/include/glibmm-2.4/glibmm/refptr.h
 	<glibmmconfig.h>
 	<glib.h>
 	<utility>
@@ -1250,34 +1225,33 @@
 1522592081 /usr/include/glibmm-2.4/glibmm/enums.h
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/value_custom.h
+1450265605 /usr/include/glibmm-2.4/glibmm/value_custom.h
 	<glibmmconfig.h>
 	<new>
 	<typeinfo>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/value_basictypes.h
+1450265605 /usr/include/glibmm-2.4/glibmm/value_basictypes.h
 
-1522592081 /usr/include/glibmm-2.4/glibmm/quark.h
+1450265605 /usr/include/glibmm-2.4/glibmm/quark.h
 	<glibmmconfig.h>
 	<glibmm/ustring.h>
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/debug.h
+1450265605 /usr/include/glibmm-2.4/glibmm/debug.h
 	<glibmmconfig.h>
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/wrap.h
+1450265605 /usr/include/glibmm-2.4/glibmm/wrap.h
 	<glib-object.h>
 	<glibmm/refptr.h>
 	<glibmm/objectbase.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/utility.h
+1450265605 /usr/include/glibmm-2.4/glibmm/utility.h
 	<glibmmconfig.h>
 	<glibmm/ustring.h>
 	<glib.h>
-	<memory>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/containerhandle_shared.h
+1450265605 /usr/include/glibmm-2.4/glibmm/containerhandle_shared.h
 	<glibmmconfig.h>
 	<glibmm/refptr.h>
 	<glibmm/ustring.h>
@@ -1292,51 +1266,48 @@
 	<deque>
 	<list>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/variant.h
+1450265605 /usr/include/glibmm-2.4/glibmm/variant.h
 	<glibmmconfig.h>
 	<glibmm/varianttype.h>
 	<glibmm/variantiter.h>
-	<glibmm/variantdbusstring.h>
 	<glibmm/refptr.h>
 	<glibmm/ustring.h>
 	<glibmm/error.h>
 	<utility>
 	<vector>
 	<map>
-	<tuple>
 	<stdexcept>
 	<typeinfo>
-	<cstddef>
 	<glibmm/variant_basictypes.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/varianttype.h
+1450265605 /usr/include/glibmm-2.4/glibmm/varianttype.h
 	<glibmmconfig.h>
 	<glib-object.h>
 	<string>
 	<vector>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/variantiter.h
+1450265605 /usr/include/glibmm-2.4/glibmm/variantiter.h
 	<glib.h>
 
 1522592081 /usr/include/glibmm-2.4/glibmm/variantdbusstring.h
 	<glibmm/ustring.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/error.h
+1450265605 /usr/include/glibmm-2.4/glibmm/error.h
 	<glibmmconfig.h>
 	<glibmm/exception.h>
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/exception.h
+1450265605 /usr/include/glibmm-2.4/glibmm/exception.h
 	<glibmm/ustring.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/variant_basictypes.h
+1450265605 /usr/include/glibmm-2.4/glibmm/variant_basictypes.h
 
-1522592081 /usr/include/glibmm-2.4/glibmm/listhandle.h
+1450265605 /usr/include/glibmm-2.4/glibmm/listhandle.h
 	<glibmmconfig.h>
 	<glibmm/containerhandle_shared.h>
 	<glib.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/threads.h
+1450265605 /usr/include/glibmm-2.4/glibmm/threads.h
 	<glibmmconfig.h>
 	<glib.h>
 	<glibmm/error.h>
@@ -1350,23 +1321,23 @@
 	<gst/gstclock.h>
 	<gstreamermmconfig.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/clock.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/clock.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
-	<gst/gstclock.h>
+	<gst/gst.h>
 	<gstreamermm/object.h>
-	<gstreamermm/clockutils.h>
+	<gstreamermmconfig.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/enums.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/enums.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/error.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/error.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/message.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/message.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
@@ -1374,10 +1345,8 @@
 	<gstreamermm/format.h>
 	<gstreamermm/clock.h>
 	<gstreamermm/query.h>
-	<gstreamermm/context.h>
-	<gstreamermm/toc.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/miniobject.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/miniobject.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
@@ -1385,17 +1354,17 @@
 	<sigc++/sigc++.h>
 	<map>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/format.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/format.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
 	<glibmm/arrayhandle.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/arrayhandle.h
+1450265605 /usr/include/glibmm-2.4/glibmm/arrayhandle.h
 	<glibmmconfig.h>
 	<glibmm/containerhandle_shared.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/query.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/query.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
@@ -1407,7 +1376,7 @@
 	<gstreamermm/allocator.h>
 	<glibmm/arrayhandle.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/structure.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/structure.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gstreamermm/clock.h>
@@ -1416,32 +1385,34 @@
 	<glibmm/date.h>
 	<glibmm/datetime.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/value.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/value.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
 	<gst/gstvalue.h>
 	<glibmm/value_custom.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/date.h
+1450265605 /usr/include/glibmm-2.4/glibmm/date.h
 	<glibmmconfig.h>
 	<glibmm/ustring.h>
 	<glib.h>
 	<ctime>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/datetime.h
+1450265605 /usr/include/glibmm-2.4/glibmm/datetime.h
 	<glibmmconfig.h>
 	<glibmm/refptr.h>
 	<glibmm/ustring.h>
 	<glib.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/caps.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/caps.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
+	<gst/gst.h>
 	<gstreamermm/miniobject.h>
 	<gstreamermm/structure.h>
+	<gstreamermm/capsfeatures.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/pad.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/pad.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
@@ -1452,7 +1423,7 @@
 	<gstreamermm/bufferlist.h>
 	<glibmm/arrayhandle.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/event.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/event.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
@@ -1462,40 +1433,44 @@
 	<gstreamermm/segment.h>
 	<gstreamermm/caps.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/segment.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/segment.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gstreamermm/clock.h>
 	<gstreamermm/format.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/bufferlist.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/bufferlist.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
+	<gst/gst.h>
 	<gstreamermm/miniobject.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/allocator.h
+1445645062 /usr/include/gstreamermm-1.0/gstreamermm/allocator.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
-	<gstreamermm/object.h>
+	<gst/gst.h>
 	<gstreamermm/memory.h>
+	<gstreamermm/object.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/memory.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/memory.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
 	<gstreamermm/miniobject.h>
-	<gstreamermm/mapinfo.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/mapinfo.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/mapinfo.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
+	<gstreamermm/memory.h>
+	<gstreamermm/object.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/context.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/context.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
-	<gst/gstcontext.h>
+	<gst/gst.h>
 	<gstreamermm/miniobject.h>
+	<gstreamermm/structure.h>
 
 1508936178 /usr/include/gstreamermm-1.0/gstreamermm/toc.h
 	<glibmm/ustring.h>
@@ -1504,22 +1479,23 @@
 	<gstreamermm/miniobject.h>
 	<gstreamermm/taglist.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/taglist.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/taglist.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
 	<gstreamermm/structure.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/childproxy.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/childproxy.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
-	<gst/gstchildproxy.h>
+	<gst/gst.h>
 	<glibmm/interface.h>
+	<gstreamermm/object.h>
 
-1522592081 /usr/include/glibmm-2.4/glibmm/interface.h
+1450265605 /usr/include/glibmm-2.4/glibmm/interface.h
 	<glibmm/object.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/sample.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/sample.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/gst.h>
@@ -1529,12 +1505,14 @@
 	<gstreamermm/segment.h>
 	<gstreamermm/structure.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/buffer.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/buffer.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
+	<gst/gst.h>
 	<gstreamermm/miniobject.h>
 	<gstreamermm/clock.h>
 	<gstreamermm/memory.h>
+	<gstreamermm/mapinfo.h>
 
 1508936178 /usr/include/gstreamermm-1.0/gstreamermm/videoinfo.h
 	<glibmm/ustring.h>
@@ -1647,11 +1625,10 @@
 	<gst/gst.h>
 	<gst/video/video-prelude.h>
 
-1527080341 /usr/include/gstreamer-1.0/gst/video/colorbalancechannel.h
+1490363553 /usr/include/gstreamer-1.0/gst/video/colorbalancechannel.h
 	<gst/gst.h>
-	<gst/video/video-prelude.h>
 
-1527080341 /usr/include/gstreamer-1.0/gst/video/colorbalance.h
+1490363553 /usr/include/gstreamer-1.0/gst/video/colorbalance.h
 	<gst/gst.h>
 	<gst/video/colorbalancechannel.h>
 
@@ -1704,9 +1681,8 @@
 	<gst/gst.h>
 	<gst/base/base-prelude.h>
 
-1527080341 /usr/include/gstreamer-1.0/gst/video/navigation.h
+1490363553 /usr/include/gstreamer-1.0/gst/video/navigation.h
 	<gst/gst.h>
-	<gst/video/video-prelude.h>
 
 1527080341 /usr/include/gstreamer-1.0/gst/video/video-blend.h
 	<gst/gst.h>
@@ -1728,40 +1704,38 @@
 	<gst/gst.h>
 	<gst/video/video.h>
 
-1527080341 /usr/include/gstreamer-1.0/gst/video/videooverlay.h
+1490363553 /usr/include/gstreamer-1.0/gst/video/videooverlay.h
 	<gst/gst.h>
-	<gst/video/gstvideosink.h>
 
 1527080341 /usr/include/gstreamer-1.0/gst/video/gstvideoaffinetransformationmeta.h
 	<gst/gst.h>
 	<gst/video/video.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/streamvolume.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/streamvolume.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/audio/streamvolume.h>
 	<glibmm/interface.h>
 
-1527080341 /usr/include/gstreamer-1.0/gst/audio/streamvolume.h
+1490363552 /usr/include/gstreamer-1.0/gst/audio/streamvolume.h
 	<gst/gst.h>
-	<gst/audio/audio-prelude.h>
 
 1527080341 /usr/include/gstreamer-1.0/gst/audio/audio-prelude.h
 	<gst/gst.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/videooverlay.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/videooverlay.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/video/videooverlay.h>
 	<glibmm/interface.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/navigation.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/navigation.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/video/navigation.h>
 	<glibmm/interface.h>
 
-1508936178 /usr/include/gstreamermm-1.0/gstreamermm/colorbalance.h
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/colorbalance.h
 	<glibmm/ustring.h>
 	<sigc++/sigc++.h>
 	<gst/video/colorbalance.h>
@@ -1772,12 +1746,16 @@
 
 1540823460 /home/eric/Dropbox/workspace/CB/sws/include/db_sqlite.h
 
-1541790239 source:/home/eric/Dropbox/workspace/CB/sws/src/utility.cpp
+1542299699 source:/home/eric/Dropbox/workspace/CB/sws/src/utility.cpp
 	"utility.h"
 	<iostream>
 
-1541790098 /home/eric/Dropbox/workspace/CB/sws/include/utility.h
+1542299950 /home/eric/Dropbox/workspace/CB/sws/include/utility.h
+	<sys/stat.h>
+	<fcntl.h>
 	<string>
+	<vector>
+	<random>
 	<list>
 	<fstream>
 	<libudev.h>
@@ -1793,4 +1771,16 @@
 1541009368 /home/eric/Dropbox/workspace/CB/sws/include/md5.h
 	<stdio.h>
 	<string.h>
+
+1473167766 /usr/lib/x86_64-linux-gnu/gstreamer-1.0/include/gst/gstconfig.h
+
+1445645063 /usr/include/gstreamermm-1.0/gstreamermm/capsfeatures.h
+	<glibmm/ustring.h>
+	<sigc++/sigc++.h>
+	<gst/gst.h>
+
+1542234596 source:/home/eric/Dropbox/workspace/CB/sws/src/network.cpp
+	"network.h"
+
+1542234596 /home/eric/Dropbox/workspace/CB/sws/include/network.h
 

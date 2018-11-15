@@ -7,7 +7,7 @@ list<string> *db::artist_list = NULL;
 
 db::db()
 {
-    sqlite3_open(db_config->config_settings.at("db_file").c_str(), &sql);
+    sqlite3_open(db_config->get_config_settings().at("db_file").c_str(), &sql);
 }
 
 db::~db()
@@ -262,7 +262,7 @@ void db::add_playlist(std::string* fn)
 
 db::song* db::get_song(std::string* p)
 {
-    db::song* s;
+    db::song* s = new song;
     TagLib::FileRef f(p->c_str());
     if (f.tag())
     {
