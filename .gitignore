@@ -4,6 +4,7 @@
 #Codeblocks
 *.cbp
 *.depend 
+*.layout
 obj
 bin
 
