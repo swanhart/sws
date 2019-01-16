@@ -2,15 +2,15 @@
 
 player::player()
 {
-    //ctor
+  //ctor
 }
 
 player::~player()
 {
-    //dtor
+  //dtor
 }
 
 player::player(const player& other)
 {
-    //copy ctor
+  //copy ctor
 }

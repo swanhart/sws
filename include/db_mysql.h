@@ -4,13 +4,13 @@
 
 class db_mysql
 {
-    public:
-        db_mysql();
-        virtual ~db_mysql();
+public:
+  db_mysql();
+  virtual ~db_mysql();
 
-    protected:
+protected:
 
-    private:
+private:
 };
 
 #endif // DB_MYSQL_H

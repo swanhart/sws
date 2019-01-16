@@ -2,10 +2,10 @@
 
 db_sqlite::db_sqlite()
 {
-    //ctor
+  //ctor
 }
 
 db_sqlite::~db_sqlite()
 {
-    //dtor
+  //dtor
 }

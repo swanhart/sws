@@ -4,13 +4,13 @@
 
 class bluetooth
 {
-    public:
-        bluetooth();
-        virtual ~bluetooth();
+public:
+  bluetooth();
+  virtual ~bluetooth();
 
-    protected:
+protected:
 
-    private:
+private:
 };
 
 #endif // BLUETOOTH_H

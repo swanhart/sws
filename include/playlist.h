@@ -4,20 +4,21 @@
 #include <string>
 #include <list>
 
-#include "track.h"
+#include "db.h"
+
 
 class playlist
 {
-    public:
-        playlist();
-        virtual ~playlist();
-        playlist(const playlist& other);
-        playlist& operator=(const playlist& other);
-        std::list<track>* tracks;
+public:
+  playlist();
+  virtual ~playlist();
+  playlist(const playlist& other);
+  playlist& operator=(const playlist& other);
+  std::list<track>* tracks;
 
-    protected:
+protected:
 
-    private:
+private:
 };
 
 #endif // PLAYLIST_H

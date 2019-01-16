@@ -4,13 +4,13 @@
 
 class server
 {
-    public:
-        server();
-        virtual ~server();
+public:
+  server();
+  virtual ~server();
 
-    protected:
+protected:
 
-    private:
+private:
 };
 
 #endif // SERVER_H

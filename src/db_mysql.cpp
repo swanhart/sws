@@ -2,10 +2,10 @@
 
 db_mysql::db_mysql()
 {
-    //ctor
+  //ctor
 }
 
 db_mysql::~db_mysql()
 {
-    //dtor
+  //dtor
 }

@@ -4,13 +4,13 @@
 
 class db_sqlite
 {
-    public:
-        db_sqlite();
-        virtual ~db_sqlite();
+public:
+  db_sqlite();
+  virtual ~db_sqlite();
 
-    protected:
+protected:
 
-    private:
+private:
 };
 
 #endif // DB_SQLITE_H
