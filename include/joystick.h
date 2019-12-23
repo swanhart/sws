@@ -6,18 +6,9 @@
 #include <fcntl.h>
 #include <cstdlib>
 #include <string>
-#include <vector>
 #include <map>
-#include <set>
-#include <iostream>
-#include <libudev.h>
 #include <boost/thread.hpp>
 #include <boost/signals2/signal.hpp>
-#include <boost/assign.hpp>
-#include <boost/filesystem.hpp>
-#include <boost/property_tree/json_parser.hpp>
-#include <boost/property_tree/ptree.hpp>
-#include <boost/foreach.hpp>
 
 #include "config.h"
 
@@ -25,6 +16,7 @@
 #define MIN_PRESSED 100
 #define LONG_PRESS 2000
 #define MAX_PRESSED 10000
+
 
 class joystick
 {
@@ -36,13 +28,13 @@ public:
     __u8 type;
     __u8 button;
   };
-
-  enum ACTION_TYPE {noop = 1, next, previous, stop, play, pause, rewind, fastforward, shuffle, favorite, add_to_playlist, volume_up, volume_down, get_suggestion, download, menu, say, playlist_up, playlist_down, same_artist, confirm, eof};
+  enum ACTION_TYPE {noop = 1, next, previous, stop, play, pause, rewind, fastforward, shuffle, favorite, add_to_playlist, volume_up,
+    volume_down, get_suggestion, download, menu, say, playlist_up, playlist_down, same_artist, delete_, confirm, eof};
   static std::map<std::string, ACTION_TYPE> actions;
   static joystick* get_instance();
   typedef boost::signals2::signal<void ()> signal_t;
   static boost::signals2::connection listen(const signal_t::slot_type &subscriber);
-  const static ACTION_TYPE get_event();
+  static ACTION_TYPE const get_event();
   static void load_config();
   static void save_config();
   int get_config_key_from_action(const ACTION_TYPE value);

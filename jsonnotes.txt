@@ -1,0 +1,36 @@
+response
+Track
+{
+	"Track": {
+		"Id": "id",
+		"Path": "path",
+		"Title": "title",
+		"TrackNo": track_no,
+		"Album": "album",
+		"Year": year,
+		"Artist": "artist",
+		"Favorite": favorite,
+		"Rating": rating,
+		"Duration": duration,
+		"SpotifyId": spotify_id
+	}
+}
+Playlist
+{
+	"Playlist": {
+		"Name":"name",
+		"Source":"source",
+		"Tracks":[{track}{track}]
+	}
+}
+Player
+{
+	"Player": {
+		"CurrentTrack":{track},
+		"PreviousTrack":{track},
+		"NextTrack":{track},
+		"CurrentPlaylist":{playlist},
+		"Playlists":[{playlist},{playlist}]
+	}
+}
+

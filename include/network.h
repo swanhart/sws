@@ -8,8 +8,13 @@ class network
     network();
     virtual ~network();
     network(const network& other);
-
+    static bool is_connected();
   protected:
+  struct header
+  {
+    char type;
+    int length;
+  };
 
   private:
 };

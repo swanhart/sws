@@ -1,0 +1,1431 @@
+/org/bluez/hci0/dev_A8_2B_B9_F6_C6_9E Adding 
+Id: A8:2B:B9:F6:C6:9EName: Galaxy Fold00001105-0000-1000-8000-00805f9b34fb: OBEX Object Push
+00001108-0000-1000-8000-00805f9b34fb: Headset
+0000110a-0000-1000-8000-00805f9b34fb: Audio Source
+0000110c-0000-1000-8000-00805f9b34fb: A/V Remote Control Target
+0000110d-0000-1000-8000-00805f9b34fb: Advanced Audio Distribution
+0000110e-0000-1000-8000-00805f9b34fb: A/V Remote Control
+00001112-0000-1000-8000-00805f9b34fb: Headset AG
+00001115-0000-1000-8000-00805f9b34fb: PANU
+00001116-0000-1000-8000-00805f9b34fb: NAP
+0000111f-0000-1000-8000-00805f9b34fb: Handsfree Audio Gateway
+0000112f-0000-1000-8000-00805f9b34fb: Phonebook Access Server
+00001132-0000-1000-8000-00805f9b34fb: Message Access Server
+00001200-0000-1000-8000-00805f9b34fb: PnP Information
+00001800-0000-1000-8000-00805f9b34fb: Generic Access Profile
+00001801-0000-1000-8000-00805f9b34fb: Generic Attribute Profile
+a23d00bc-217c-123b-9c00-fc44577136ee: Vendor specific
+/org/bluez/hci0/dev_A8_2B_B9_25_C0_11 Adding 
+Id: A8:2B:B9:25:C0:11Name: Galaxy S10e00001105-0000-1000-8000-00805f9b34fb: OBEX Object Push
+00001108-0000-1000-8000-00805f9b34fb: Headset
+0000110a-0000-1000-8000-00805f9b34fb: Audio Source
+0000110c-0000-1000-8000-00805f9b34fb: A/V Remote Control Target
+0000110d-0000-1000-8000-00805f9b34fb: Advanced Audio Distribution
+0000110e-0000-1000-8000-00805f9b34fb: A/V Remote Control
+00001112-0000-1000-8000-00805f9b34fb: Headset AG
+00001115-0000-1000-8000-00805f9b34fb: PANU
+00001116-0000-1000-8000-00805f9b34fb: NAP
+0000111f-0000-1000-8000-00805f9b34fb: Handsfree Audio Gateway
+0000112f-0000-1000-8000-00805f9b34fb: Phonebook Access Server
+00001132-0000-1000-8000-00805f9b34fb: Message Access Server
+00001200-0000-1000-8000-00805f9b34fb: PnP Information
+00001800-0000-1000-8000-00805f9b34fb: Generic Access Profile
+00001801-0000-1000-8000-00805f9b34fb: Generic Attribute Profile
+a23d00bc-217c-123b-9c00-fc44577136ee: Vendor specific
+/org/bluez/hci0/dev_F8_E6_1A_3B_F1_A9 Adding 
+Id: F8:E6:1A:3B:F1:A9Name: Galaxy S800001105-0000-1000-8000-00805f9b34fb: OBEX Object Push
+00001108-0000-1000-8000-00805f9b34fb: Headset
+0000110a-0000-1000-8000-00805f9b34fb: Audio Source
+0000110c-0000-1000-8000-00805f9b34fb: A/V Remote Control Target
+0000110d-0000-1000-8000-00805f9b34fb: Advanced Audio Distribution
+0000110e-0000-1000-8000-00805f9b34fb: A/V Remote Control
+00001112-0000-1000-8000-00805f9b34fb: Headset AG
+00001115-0000-1000-8000-00805f9b34fb: PANU
+00001116-0000-1000-8000-00805f9b34fb: NAP
+0000111f-0000-1000-8000-00805f9b34fb: Handsfree Audio Gateway
+0000112f-0000-1000-8000-00805f9b34fb: Phonebook Access Server
+00001132-0000-1000-8000-00805f9b34fb: Message Access Server
+00001200-0000-1000-8000-00805f9b34fb: PnP Information
+00001800-0000-1000-8000-00805f9b34fb: Generic Access Profile
+00001801-0000-1000-8000-00805f9b34fb: Generic Attribute Profile
+a23d00bc-217c-123b-9c00-fc44577136ee: Vendor specific
+/org/bluez/hci0/dev_A8_2B_B9_25_C0_27 Adding 
+Id: A8:2B:B9:25:C0:27Name: Galaxy S10e00001105-0000-1000-8000-00805f9b34fb: OBEX Object Push
+00001108-0000-1000-8000-00805f9b34fb: Headset
+0000110a-0000-1000-8000-00805f9b34fb: Audio Source
+0000110c-0000-1000-8000-00805f9b34fb: A/V Remote Control Target
+0000110d-0000-1000-8000-00805f9b34fb: Advanced Audio Distribution
+0000110e-0000-1000-8000-00805f9b34fb: A/V Remote Control
+00001112-0000-1000-8000-00805f9b34fb: Headset AG
+00001115-0000-1000-8000-00805f9b34fb: PANU
+00001116-0000-1000-8000-00805f9b34fb: NAP
+0000111f-0000-1000-8000-00805f9b34fb: Handsfree Audio Gateway
+0000112f-0000-1000-8000-00805f9b34fb: Phonebook Access Server
+00001132-0000-1000-8000-00805f9b34fb: Message Access Server
+00001200-0000-1000-8000-00805f9b34fb: PnP Information
+00001800-0000-1000-8000-00805f9b34fb: Generic Access Profile
+00001801-0000-1000-8000-00805f9b34fb: Generic Attribute Profile
+a23d00bc-217c-123b-9c00-fc44577136ee: Vendor specific
+/org/bluez/hci0/dev_A8_2B_B9_36_CC_E9 Adding 
+Id: A8:2B:B9:36:CC:E9Name: Galaxy S10+00001105-0000-1000-8000-00805f9b34fb: OBEX Object Push
+00001108-0000-1000-8000-00805f9b34fb: Headset
+0000110a-0000-1000-8000-00805f9b34fb: Audio Source
+0000110c-0000-1000-8000-00805f9b34fb: A/V Remote Control Target
+0000110d-0000-1000-8000-00805f9b34fb: Advanced Audio Distribution
+0000110e-0000-1000-8000-00805f9b34fb: A/V Remote Control
+00001112-0000-1000-8000-00805f9b34fb: Headset AG
+00001115-0000-1000-8000-00805f9b34fb: PANU
+00001116-0000-1000-8000-00805f9b34fb: NAP
+0000111f-0000-1000-8000-00805f9b34fb: Handsfree Audio Gateway
+0000112f-0000-1000-8000-00805f9b34fb: Phonebook Access Server
+00001132-0000-1000-8000-00805f9b34fb: Message Access Server
+00001200-0000-1000-8000-00805f9b34fb: PnP Information
+00001800-0000-1000-8000-00805f9b34fb: Generic Access Profile
+00001801-0000-1000-8000-00805f9b34fb: Generic Attribute Profile
+95e60810-8ad0-11e6-bdf4-4b1e122d00d0: Vendor specific
+a23d00bc-217c-123b-9c00-fc44577136ee: Vendor specific
+/org/bluez/hci0/dev_08_AE_D6_5A_68_9E Adding 
+Id: 08:AE:D6:5A:68:9EName: Galaxy Note900001105-0000-1000-8000-00805f9b34fb: OBEX Object Push
+00001108-0000-1000-8000-00805f9b34fb: Headset
+0000110a-0000-1000-8000-00805f9b34fb: Audio Source
+0000110c-0000-1000-8000-00805f9b34fb: A/V Remote Control Target
+0000110d-0000-1000-8000-00805f9b34fb: Advanced Audio Distribution
+0000110e-0000-1000-8000-00805f9b34fb: A/V Remote Control
+00001112-0000-1000-8000-00805f9b34fb: Headset AG
+00001115-0000-1000-8000-00805f9b34fb: PANU
+00001116-0000-1000-8000-00805f9b34fb: NAP
+0000111f-0000-1000-8000-00805f9b34fb: Handsfree Audio Gateway
+0000112f-0000-1000-8000-00805f9b34fb: Phonebook Access Server
+00001132-0000-1000-8000-00805f9b34fb: Message Access Server
+00001200-0000-1000-8000-00805f9b34fb: PnP Information
+00001800-0000-1000-8000-00805f9b34fb: Generic Access Profile
+00001801-0000-1000-8000-00805f9b34fb: Generic Attribute Profile
+a23d00bc-217c-123b-9c00-fc44577136ee: Vendor specific
+filename: sws
+/home/m2m/.sws/settings.conf
+/home/m2m/.sws/sws.sqliteENABLE_COLUMN_METADATA
+db::tables()
+0
+/media/
+Starting iterate roots
+db::add_to_playlist(const string name, list<string> paths)
+REPLACE INTO [scandal] VALUES 
+('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/07 Pride..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/04 BEAUTeen!!..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/11 11 スキャンダルなんかブッ飛ばせ (Nanka Buttobase)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/16 SCANDALのテーマ (SCANDAL no Theme)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/09 瞬間センチメンタル (Shunkan Sentimental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/01 HARUKAZE..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/05 太陽と君が描くSTORY (Taiyo to Kimi ga Egaku STORY)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/10 ハルカ (Haruka)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/02 少女S (Shoujo S)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/06 LOVE SURVIVE..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/15 SCANDAL BABY..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/13 カゲロウ -album mix- (Kagero)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/08 スイッチ (Switch)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/14 SAKURAグッバイ (SAKURA Good bye)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/12 EVERYBODY SAY YEAH..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/06. Kill the virgin.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/08. Rising Star.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/04. Rock''n Roll.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/10. Welcome home.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/12. Right Here.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/05. ビターチョコレート.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/11. HARUKAZE.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/09. Bright.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/07. 声.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/01. 恋の果実..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/01. GLAMOROUS YOU..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/01. Queens are trumps.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/01 S.L. Magic.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/01. EVERYBODY SAY YEAH!..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/01. 六本木心中..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/01. SCANDAL BABY..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/01. SAKURA グッバイ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/01. 夢見るつばさ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/01. DOLL..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/01. スキャンダルなんかブッ飛ばせ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/01 Pinheel Sufer.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/01 HARUKAZE.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/01. 瞬間センチメンタル（MBSxTBS系アニメ「鋼の錬金術師」エンディングテーマ）..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/01 ハルカ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.03.03 - Space Ranger/01 Space Ranger.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/01. 太陽と君が描くSTORY..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/1. 太阳スキャンダラス.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/01. 涙のリグレット..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.05.05 - Kagerou/01 Kagerou.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/01. 少女S..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/01. 少女S..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/01. 少女S..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/01. LOVE SURVIVE..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/01. Pride..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.04.04 - Koi Moyou/01 Koi Moyou.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/02. その時、世界はキミだらけのレイン..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/02. 太陽スキャンダラス.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/02 TOKYO.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/02. スペースレンジャー..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/02. 太陽と君が描くSTORY..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/02. 恋人がサンタクロース..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/02. 少女S..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/02. Tokyo..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/02. BEAUTeen!!..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/02. S.L. Magic..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/02. スキャンダルなんかブッ飛ばせ (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/02 OSAKA.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ALONES.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/02 HARUKAZE (Instrumental).mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ~Asterisk~ (~~) (origina....mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/02. 星の降る夜に..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/02 サティスファクション..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/02. KOSHI-TANTAN..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. Welcome home.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. ちぇりーじゃむ.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. 恋の始まりはダイエット.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/02. Midnight Television..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/02. ナツネイロ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/02. ナツネイロ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/02. ナツネイロ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/02. 君に嫉妬中..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/02. CUTE!..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/03. LOVE SURVIVE..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/03 DOLL ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/03. 太陽スキャンダラス.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/03 ナツネイロ.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/03. 恋模様..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/03. 瞬間センチメンタル..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/03. SINKY-YORK..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/03. DOLL..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/03. Sakuraグッバイ (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/03. Daydream..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/03. DOLL (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/03 Pinheel Sufer [Instrumental].mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/03. 夢見る頃を過ぎても..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/03 Want you..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/03. スイッチ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/3. 太阳スキャンダラス (Instrumental).mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/03. Shining Sun..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/03. FUTURE..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/03. SO EASY..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/03. FUTURE..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/03. ひかれ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/03. Emotion..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/04. Sparkling..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/05 SO EASY.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/04 FUTURE.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/04. カゲロウ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/04. 放課後1H..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/04. ロックンロール・ウィドウ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/04. 恋模様..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/04. 夢見るつばさ(Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/04. 瞬間センチメンタル (「鋼の錬金術師 FULLMETAL ALCHEMIST」 ED ver.)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/04 ハルカ (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/04. 太陽と君が描くSTORY(instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/04. 涙のリグレット(instr)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/04. 少女S (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/04. 少女S (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/04. LOVE SURVIVE (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/04. Pride (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/05. BURN..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/05. 涙のリグレット..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/05. DAYDREAM..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/05. 夢見るつばさ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/05. BEAUTeen!! (Instrumental)..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/05. 瞬間センチメンタル（Instrumental）..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/06. アップルたちの伝言..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/06 星の降る夜に.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/06. Hi-Hi-Hi..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/06. Sunny Day Sunday..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/06. アナタガマワル..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/07. 東京スカイスクレイパー..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/07 KOSHI-TANTAN.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/07. 少女M..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/07. secret base 〜君がくれたもの〜..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/07. スペースレンジャー..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/08. Pride..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/08 Midnight Television.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/08. GIRLism..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/08. Ring!Ring!Ring!..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/09. ハルカ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/09 Shining Sun.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/09. プレイボーイPartII..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/09. マボロシナイト..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/10. スキャンダルなんかブッ飛ばせ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/10 CUTE!.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/10. Hello! Hello!..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/10. キミと夜と涙..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/11. Very Special..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/11 Emotion.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/11. 会いたい..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/11. ひとつだけ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/12. one piece..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/12 サティスファクション .mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/12. さよならMy Friend..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/12. SAKURAグッバイ..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/13 Want you.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/13. カゲロウ -album mix-..flac'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/14 君に嫉妬中 .mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/15 ひかれ.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/16 ハッピーコレクタ.mp3'),('/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/17 プレイボーイ.mp3'),
+RES
+unlocked
+scandal
+has:
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/07 Pride..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/04 BEAUTeen!!..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/11 11 スキャンダルなんかブッ飛ばせ (Nanka Buttobase)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/16 SCANDALのテーマ (SCANDAL no Theme)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/09 瞬間センチメンタル (Shunkan Sentimental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/01 HARUKAZE..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/05 太陽と君が描くSTORY (Taiyo to Kimi ga Egaku STORY)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/10 ハルカ (Haruka)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/02 少女S (Shoujo S)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/06 LOVE SURVIVE..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/15 SCANDAL BABY..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/13 カゲロウ -album mix- (Kagero)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/08 スイッチ (Switch)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/14 SAKURAグッバイ (SAKURA Good bye)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/12 EVERYBODY SAY YEAH..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/06. Kill the virgin.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/08. Rising Star.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/04. Rock'n Roll.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/10. Welcome home.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/12. Right Here.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/05. ビターチョコレート.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/11. HARUKAZE.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/09. Bright.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/07. 声.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/01. 恋の果実..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/01. GLAMOROUS YOU..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/01. Queens are trumps.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/01 S.L. Magic.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/01. EVERYBODY SAY YEAH!..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/01. 六本木心中..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/01. SCANDAL BABY..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/01. SAKURA グッバイ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/01. 夢見るつばさ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/01. DOLL..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/01. スキャンダルなんかブッ飛ばせ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/01 Pinheel Sufer.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/01 HARUKAZE.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/01. 瞬間センチメンタル（MBSxTBS系アニメ「鋼の錬金術師」エンディングテーマ）..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/01 ハルカ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.03.03 - Space Ranger/01 Space Ranger.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/01. 太陽と君が描くSTORY..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/1. 太阳スキャンダラス.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/01. 涙のリグレット..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.05.05 - Kagerou/01 Kagerou.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/01. 少女S..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/01. 少女S..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/01. 少女S..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/01. LOVE SURVIVE..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/01. Pride..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.04.04 - Koi Moyou/01 Koi Moyou.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/02. その時、世界はキミだらけのレイン..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/02. 太陽スキャンダラス.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/02 TOKYO.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/02. スペースレンジャー..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/02. 太陽と君が描くSTORY..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/02. 恋人がサンタクロース..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/02. 少女S..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/02. Tokyo..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/02. BEAUTeen!!..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/02. S.L. Magic..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/02. スキャンダルなんかブッ飛ばせ (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/02 OSAKA.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ALONES.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/02 HARUKAZE (Instrumental).mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ~Asterisk~ (~~) (origina....mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/02. 星の降る夜に..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/02 サティスファクション..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/02. KOSHI-TANTAN..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. Welcome home.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. ちぇりーじゃむ.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. 恋の始まりはダイエット.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/02. Midnight Television..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/02. ナツネイロ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/02. ナツネイロ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/02. ナツネイロ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/02. 君に嫉妬中..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/02. CUTE!..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/03. LOVE SURVIVE..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/03 DOLL ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/03. 太陽スキャンダラス.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/03 ナツネイロ.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/03. 恋模様..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/03. 瞬間センチメンタル..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/03. SINKY-YORK..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/03. DOLL..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/03. Sakuraグッバイ (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/03. Daydream..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/03. DOLL (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/03 Pinheel Sufer [Instrumental].mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/03. 夢見る頃を過ぎても..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/03 Want you..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/03. スイッチ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/3. 太阳スキャンダラス (Instrumental).mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/03. Shining Sun..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/03. FUTURE..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/03. SO EASY..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/03. FUTURE..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/03. ひかれ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/03. Emotion..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/04. Sparkling..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/05 SO EASY.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/04 FUTURE.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/04. カゲロウ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/04. 放課後1H..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/04. ロックンロール・ウィドウ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/04. 恋模様..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/04. 夢見るつばさ(Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/04. 瞬間センチメンタル (「鋼の錬金術師 FULLMETAL ALCHEMIST」 ED ver.)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/04 ハルカ (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/04. 太陽と君が描くSTORY(instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/04. 涙のリグレット(instr)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/04. 少女S (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/04. 少女S (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/04. LOVE SURVIVE (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/04. Pride (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/05. BURN..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/05. 涙のリグレット..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/05. DAYDREAM..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/05. 夢見るつばさ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/05. BEAUTeen!! (Instrumental)..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/05. 瞬間センチメンタル（Instrumental）..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/06. アップルたちの伝言..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/06 星の降る夜に.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/06. Hi-Hi-Hi..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/06. Sunny Day Sunday..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/06. アナタガマワル..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/07. 東京スカイスクレイパー..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/07 KOSHI-TANTAN.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/07. 少女M..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL's Rock!/07. secret base 〜君がくれたもの〜..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/07. スペースレンジャー..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/08. Pride..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/08 Midnight Television.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/08. GIRLism..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/08. Ring!Ring!Ring!..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/09. ハルカ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/09 Shining Sun.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/09. プレイボーイPartII..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/09. マボロシナイト..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/10. スキャンダルなんかブッ飛ばせ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/10 CUTE!.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/10. Hello! Hello!..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/10. キミと夜と涙..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/11. Very Special..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/11 Emotion.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/11. 会いたい..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/11. ひとつだけ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/12. one piece..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/12 サティスファクション .mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/12. さよならMy Friend..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/12. SAKURAグッバイ..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/13 Want you.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/13. カゲロウ -album mix-..flac
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/14 君に嫉妬中 .mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/15 ひかれ.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/16 ハッピーコレクタ.mp3
+/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/17 プレイボーイ.mp3
+
+db::add_to_playlist(const string name, list<string> paths)
+playlist
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+The Clash
+has:
+
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::insert_path(const string path)
+db::add_to_playlist(const string name, list<string> paths)
+The Smiths
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+Stereolab
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+The Replacements
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+Sublime
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+Social Distortion
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+The Jesus and Mary Chain
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+Pixies
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+LearnItalian
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+DavidBowie
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+The Veils
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+prince
+has:
+
+db::add_to_playlist(const string name, list<string> paths)
+The Breeders
+has:
+
+FINI
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/07 Pride..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/07 Pride..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/04 BEAUTeen!!..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/04 BEAUTeen!!..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/11 11 スキャンダルなんかブッ飛ばせ (Nanka Buttobase)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/11 11 スキャンダルなんかブッ飛ばせ (Nanka Buttobase)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/16 SCANDALのテーマ (SCANDAL no Theme)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/16 SCANDALのテーマ (SCANDAL no Theme)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/09 瞬間センチメンタル (Shunkan Sentimental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/09 瞬間センチメンタル (Shunkan Sentimental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/01 HARUKAZE..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/01 HARUKAZE..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/05 太陽と君が描くSTORY (Taiyo to Kimi ga Egaku STORY)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/05 太陽と君が描くSTORY (Taiyo to Kimi ga Egaku STORY)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/10 ハルカ (Haruka)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/10 ハルカ (Haruka)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/02 少女S (Shoujo S)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/02 少女S (Shoujo S)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/06 LOVE SURVIVE..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/06 LOVE SURVIVE..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/15 SCANDAL BABY..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/15 SCANDAL BABY..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/13 カゲロウ -album mix- (Kagero)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/13 カゲロウ -album mix- (Kagero)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/08 スイッチ (Switch)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/08 スイッチ (Switch)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/14 SAKURAグッバイ (SAKURA Good bye)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/14 SAKURAグッバイ (SAKURA Good bye)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/12 EVERYBODY SAY YEAH..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/12 EVERYBODY SAY YEAH..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/06. Kill the virgin.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/06. Kill the virgin.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/08. Rising Star.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/08. Rising Star.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/04. Rock''n Roll.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/04. Rock''n Roll.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/10. Welcome home.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/10. Welcome home.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/12. Right Here.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/12. Right Here.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/05. ビターチョコレート.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/05. ビターチョコレート.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/11. HARUKAZE.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/11. HARUKAZE.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/09. Bright.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/09. Bright.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/07. 声.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/07. 声.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/01. 恋の果実..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/01. 恋の果実..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/01. GLAMOROUS YOU..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/01. GLAMOROUS YOU..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/01. Queens are trumps.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/01. Queens are trumps.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/01 S.L. Magic.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/01 S.L. Magic.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/01. EVERYBODY SAY YEAH!..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/01. EVERYBODY SAY YEAH!..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/01. 六本木心中..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/01. 六本木心中..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/01. SCANDAL BABY..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/01. SCANDAL BABY..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/01. SAKURA グッバイ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/01. SAKURA グッバイ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/01. 夢見るつばさ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/01. 夢見るつばさ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/01. DOLL..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/01. DOLL..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/01. スキャンダルなんかブッ飛ばせ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/01. スキャンダルなんかブッ飛ばせ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/01 Pinheel Sufer.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/01 Pinheel Sufer.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/01 HARUKAZE.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/01 HARUKAZE.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/01. 瞬間センチメンタル（MBSxTBS系アニメ「鋼の錬金術師」エンディングテーマ）..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/01. 瞬間センチメンタル（MBSxTBS系アニメ「鋼の錬金術師」エンディングテーマ）..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/01 ハルカ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/01 ハルカ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.03.03 - Space Ranger/01 Space Ranger.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.03.03 - Space Ranger/01 Space Ranger.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/01. 太陽と君が描くSTORY..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/01. 太陽と君が描くSTORY..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/1. 太阳スキャンダラス.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/1. 太阳スキャンダラス.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/01. 涙のリグレット..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/01. 涙のリグレット..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.05.05 - Kagerou/01 Kagerou.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.05.05 - Kagerou/01 Kagerou.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/01. 少女S..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/01. 少女S..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/01. 少女S..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/01. 少女S..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/01. 少女S..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/01. 少女S..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/01. LOVE SURVIVE..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/01. LOVE SURVIVE..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/01. Pride..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/01. Pride..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.04.04 - Koi Moyou/01 Koi Moyou.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.04.04 - Koi Moyou/01 Koi Moyou.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/02. その時、世界はキミだらけのレイン..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/02. その時、世界はキミだらけのレイン..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/02. 太陽スキャンダラス.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/02. 太陽スキャンダラス.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/02 TOKYO.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/02 TOKYO.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/02. スペースレンジャー..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/02. スペースレンジャー..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/02. 太陽と君が描くSTORY..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/02. 太陽と君が描くSTORY..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/02. 恋人がサンタクロース..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/02. 恋人がサンタクロース..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/02. 少女S..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/02. 少女S..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/02. Tokyo..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/02. Tokyo..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/02. BEAUTeen!!..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/02. BEAUTeen!!..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/02. S.L. Magic..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/02. S.L. Magic..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/02. スキャンダルなんかブッ飛ばせ (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.10.06 - スキャンダルなんかブッ飛ばせ/02. スキャンダルなんかブッ飛ばせ (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/02 OSAKA.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/02 OSAKA.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ALONES.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ALONES.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/02 HARUKAZE (Instrumental).mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/02 HARUKAZE (Instrumental).mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ~Asterisk~ (~~) (origina....mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.02.22 - Harukaze/SCANDAL - ~Asterisk~ (~~) (origina....mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/02. 星の降る夜に..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/02. 星の降る夜に..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/02 サティスファクション..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/02 サティスファクション..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/02. KOSHI-TANTAN..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/02. KOSHI-TANTAN..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. Welcome home.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. Welcome home.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. ちぇりーじゃむ.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. ちぇりーじゃむ.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. 恋の始まりはダイエット.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/2. 恋の始まりはダイエット.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/02. Midnight Television..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/02. Midnight Television..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/02. ナツネイロ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/02. ナツネイロ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/02. ナツネイロ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/02. ナツネイロ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/02. ナツネイロ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/02. ナツネイロ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/02. 君に嫉妬中..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/02. 君に嫉妬中..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/02. CUTE!..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/02. CUTE!..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/03. LOVE SURVIVE..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/03. LOVE SURVIVE..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/03 DOLL ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.03.07 - Scandal Show/03 DOLL ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/03. 太陽スキャンダラス.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2012.09.26 - Queens are trumps/03. 太陽スキャンダラス.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/03 ナツネイロ.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/03 ナツネイロ.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/03. 恋模様..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/03. 恋模様..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/03. 瞬間センチメンタル..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/03. 瞬間センチメンタル..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/03. SINKY-YORK..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/03. SINKY-YORK..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/03. DOLL..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/03. DOLL..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/03. Sakuraグッバイ (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.03.04 - SAKURA Goodbye/03. Sakuraグッバイ (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/03. Daydream..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/03. Daydream..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/03. DOLL (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2008.10.22 - DOLL/03. DOLL (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/03 Pinheel Sufer [Instrumental].mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.09.12 - Pin Heel Surfer/03 Pinheel Sufer [Instrumental].mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/03. 夢見る頃を過ぎても..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/03. 夢見る頃を過ぎても..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/03 Want you..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/03 Want you..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/03. スイッチ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/03. スイッチ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/3. 太阳スキャンダラス (Instrumental).mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2012.07.11 - Taiyo Scandalous/3. 太阳スキャンダラス (Instrumental).mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/03. Shining Sun..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/03. Shining Sun..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/03. FUTURE..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Regular Edition]/03. FUTURE..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/03. SO EASY..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/03. SO EASY..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/03. FUTURE..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/03. FUTURE..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/03. ひかれ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/03. ひかれ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/03. Emotion..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/03. Emotion..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/04. Sparkling..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/04. Sparkling..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/05 SO EASY.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/05 SO EASY.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/04 FUTURE.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/04 FUTURE.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/04. カゲロウ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2008.08.08 - YAH! YAH! YAH! HELLO SCANDAL/04. カゲロウ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/04. 放課後1H..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/04. 放課後1H..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/04. ロックンロール・ウィドウ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/04. ロックンロール・ウィドウ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/04. 恋模様..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/04. 恋模様..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/04. 夢見るつばさ(Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/04. 夢見るつばさ(Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/04. 瞬間センチメンタル (「鋼の錬金術師 FULLMETAL ALCHEMIST」 ED ver.)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/04. 瞬間センチメンタル (「鋼の錬金術師 FULLMETAL ALCHEMIST」 ED ver.)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/04 ハルカ (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.04.20 - ハルカ/04 ハルカ (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/04. 太陽と君が描くSTORY(instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.06.02 - 太陽と君が描くSTORY/04. 太陽と君が描くSTORY(instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/04. 涙のリグレット(instr)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.07.28 - 涙のリグレット/04. 涙のリグレット(instr)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/04. 少女S (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single A-type]/04. 少女S (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/04. 少女S (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.06.17 - 少女S/2009.06.17 - 少女S [Limited Edition Single B-type]/04. 少女S (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/04. LOVE SURVIVE (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.07.27 - LOVE SURVIVE/04. LOVE SURVIVE (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/04. Pride (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2011.02.09 - Pride/04. Pride (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/05. BURN..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/05. BURN..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/05. 涙のリグレット..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/05. 涙のリグレット..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/05. DAYDREAM..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/05. DAYDREAM..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/05. 夢見るつばさ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/05. 夢見るつばさ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/05. BEAUTeen!! (Instrumental)..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2009.10.14 - 夢見るつばさ/05. BEAUTeen!! (Instrumental)..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/05. 瞬間センチメンタル（Instrumental）..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Singles/2010.02.03 - 瞬間センチメンタル/05. 瞬間センチメンタル（Instrumental）..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/06. アップルたちの伝言..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/06. アップルたちの伝言..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/06 星の降る夜に.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/06 星の降る夜に.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/06. Hi-Hi-Hi..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/06. Hi-Hi-Hi..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/06. Sunny Day Sunday..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/06. Sunny Day Sunday..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/06. アナタガマワル..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/06. アナタガマワル..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/07. 東京スカイスクレイパー..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/07. 東京スカイスクレイパー..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/07 KOSHI-TANTAN.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/07 KOSHI-TANTAN.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/07. 少女M..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/07. 少女M..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/07. secret base 〜君がくれたもの〜..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.11.17 - R-GIRL''s Rock!/07. secret base 〜君がくれたもの〜..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/07. スペースレンジャー..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/07. スペースレンジャー..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/08. Pride..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/08. Pride..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/08 Midnight Television.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/08 Midnight Television.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/08. GIRLism..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/08. GIRLism..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/08. Ring!Ring!Ring!..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/08. Ring!Ring!Ring!..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/09. ハルカ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/09. ハルカ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/09 Shining Sun.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/09 Shining Sun.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/09. プレイボーイPartII..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/09. プレイボーイPartII..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/09. マボロシナイト..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/09. マボロシナイト..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/10. スキャンダルなんかブッ飛ばせ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/10. スキャンダルなんかブッ飛ばせ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/10 CUTE!.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/10 CUTE!.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/10. Hello! Hello!..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/10. Hello! Hello!..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/10. キミと夜と涙..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/10. キミと夜と涙..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/11. Very Special..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/11. Very Special..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/11 Emotion.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/11 Emotion.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/11. 会いたい..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/11. 会いたい..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/11. ひとつだけ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/11. ひとつだけ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/12. one piece..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2011.08.10 - Baby Action/12. one piece..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/12 サティスファクション .mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/12 サティスファクション .mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/12. さよならMy Friend..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2010.08.11 - TEMPTATION BOX/12. さよならMy Friend..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/12. SAKURAグッバイ..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/12. SAKURAグッバイ..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/13 Want you.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/13 Want you.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/13. カゲロウ -album mix-..flac';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2009.10.21 - BEST★SCANDAL/13. カゲロウ -album mix-..flac';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/14 君に嫉妬中 .mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/14 君に嫉妬中 .mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/15 ひかれ.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/15 ひかれ.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/16 ハッピーコレクタ.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/16 ハッピーコレクタ.mp3';
+db::select_track(const string path)
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/17 プレイボーイ.mp3';
+locked
+res: 21
+SQLSELECTRACK: bad parameter or other API misuse
+SELECT title, track_no, album, year, artist, favorite, spotify_id, file_hash from db_catalog WHERE path='/media/m2m/144c9a03-0fb0-48df-92f1-61e240f77c6f/music/SCANDAL/Albums/2013.02.06 - Encore Show/17 プレイボーイ.mp3';

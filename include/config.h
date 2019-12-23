@@ -7,7 +7,9 @@
 #include <boost/property_tree/ptree.hpp>
 #include <boost/property_tree/ini_parser.hpp>
 #include <boost/property_tree/json_parser.hpp>
+#include <boost/thread.hpp>
 #include <iostream>
+#include <curl/curl.h>
 
 class config
 {
@@ -22,12 +24,13 @@ public:
   T get (const std::string a)
   {
     T val;
-    val = settings.get<T>(a);
+    val = settings.get<T>((boost::property_tree::path) a);
     return (val);
   }
   static config* get_instance();
   void save_config_settings();
   std::string root;
+
   virtual ~config();
 protected:
 private:
@@ -39,6 +42,7 @@ private:
   boost::property_tree::ptree settings;
   void set_program_name();
   std::string prog_name;
+  static boost::thread m_thread;
 };
 
 #endif // CONFIG_H

@@ -1,3 +1,17 @@
+#include <vector>
+#include <random>
+#include <list>
+#include <iostream>
+#include <fstream>
+#include <algorithm>
+#include <chrono>
+#include <boost/algorithm/string.hpp>
+#include <boost/algorithm/string/predicate.hpp>
+#include <boost/foreach.hpp>
+#include <thread>
+#include <magic.h>
+#include <gstreamermm.h>
+
 #include "utility.h"
 
 
@@ -5,7 +19,6 @@
 using namespace std;
 using namespace Gst;
 using Glib::RefPtr;
-namespace fs = boost::filesystem;
 
 namespace utility
 {
@@ -42,46 +55,6 @@ std::string mime_info(const string fn)
   string s =  (string) magic_file(magt, fn.c_str());
   magic_close(magt);
   return s;
-}
-
-void populate()
-{
-  fs::path p("/media");
-  boost::thread t(populate_thread, &p);
-}
-
-void populate_thread(fs::path* root_path)
-{
-  fs::path p = *root_path;
-  fs::recursive_directory_iterator itr(p), ieod;
-  BOOST_FOREACH(fs::path const &p, make_pair(itr, ieod))
-  {
-    if (fs::is_regular(p))
-      {
-        if (is_playlist_file(p.string()))
-          {
-            //db::db_action a;
-            //a.id = 1;
-            //a.fptr = db::add_playlist;
-            //a.fptr(&p);
-            //boost::thread t(a);
-            //t.join();
-            const string *s = &p.string();
-            db::pending.push(bind(db::add_playlist, s));
-          }
-        else if (track::is_audio_file(p.string()))
-          {
-            db::add_track((string*) &p);
-          }
-      }
-  }
-}
-template < typename T > void shuffle(std::list<T>& lst )
-{
-  vector<reference_wrapper<const T> > vec(lst.begin(), lst.end());
-  shuffle(vec.begin(), vec.end(), mt19937{random_device()()});
-  list<T> shuffled_list{vec.begin(), vec.end()};
-  lst.swap(shuffled_list);
 }
 
 bool starts_with(string const h, string const n)
@@ -128,4 +101,3 @@ void on_decoder_pad_added(const RefPtr<Pad> pad)
 }
 
 }
-

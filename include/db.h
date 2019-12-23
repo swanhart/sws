@@ -1,53 +1,116 @@
 #ifndef DB_H
 #define DB_H
-
-#include <fstream>
 #include <string>
 #include <list>
-#include <queue>
-#include <boost/filesystem.hpp>
-#include <boost/thread.hpp>
+#include <fstream>
+#include <map>
+#include <experimental/filesystem>
+#include <boost/algorithm/string/replace.hpp>
 #include <sqlite3.h>
+#include <thread>
+#include <queue>
+#include <mutex>
+#include <condition_variable>
 
-#include "config.h"
-#include "track.h"
+using namespace std;
 
 class db
 {
-public:
-  virtual ~db();
-  static db* get_instance();
-  static std::queue<std::function<void()>> pending;
-  static boost::thread db_thread;
-  static std::list<std::string> *genres();
-  static std::list<std::string> *influences();
-  static void get_track(const std::string*, track*);
-  static void update_track(const track*);
-  static void add_track(const std::string*);
-  static void add_track(const track*);
-  static void add_influnce(const std::string*, const std::string*);
-  static void remove_influence(const std::string*, const std::string*);
-  static void get_influence(const std::string*, std::list<std::string>*);
-  static void get_influenced(const std::string*, std::list<std::string>*);
-  static void remove_track(const std::string*);
-  static void get_playlist(const std::string*, std::list<std::string>*);
-  static void update_playlist(const std::string*, const std::list<std::string>*);
-  static void add_to_playlist(const std::string*, const std::list<std::string>*);
-  static void add_to_playlist(const std::string*, const std::string*);
-  static void remove_from_playlist(const std::string*, const std::list<std::string>*);
-  static void remove_from_playlist(const std::string*, const std::string*);
-  static void add_playlist(const std::string*);
-  static void get_favorites(const std::list<std::string>*);
-  static void get_all(const std::list<std::string>*);
+  public:
+    struct song
+    {
+      std::string path;
+      std::string title;
+      int track_no;
+      std::string album;
+      unsigned short int year;
+      std::string artist;
+      bool favorite;
+      std::string spotify_id;
+      float rating;
+      double duration;
+      std::string md5;
+      bool found = false;
+      void escape()
+      {
+        boost::replace_all(path, "'", "''");
+        boost::replace_all(title, "'", "''");
+        boost::replace_all(album, "'", "''");
+        boost::replace_all(artist, "'", "''");
+      }
+      string to_query_string()
+      {
+        return (string) "'" + path + "', '" + title + "', " + to_string(track_no) + ", '" + album + "', " + to_string(year) +
+          ", '" + artist + "', " + to_string(favorite) + ", " + to_string(duration) + ", '"  + spotify_id + "', '" + md5 + "'";
+      }
+      song& operator=(song a)
+      {
+        path = a.path;
+        title = a.title;
+        track_no = a.track_no;
+        album = a.album;
+        year = a.year;
+        artist = a.artist;
+        favorite = a.favorite;
+        spotify_id = a.spotify_id;
+        rating = a.rating;
+        duration = a.duration;
+        md5 = a.md5;
+        found = a.found;
+        return *this;
+      }
+    };
+    struct playlist
+    {
+      string name;
+      string source;
+      int last;
+    };
+    static db *get_instance();
+    virtual ~db();
 
-private:
-  db();
-  static db *db_instance;
-  static bool is_alive;
-  static sqlite3* sql;
-  static std::list<std::string> *artist_list;
-  unsigned long long get_duration(std::string);
+    void insert_path(const string path);
+    void insert_track(const song s);
+    void insert_influence(const string artist, const string influence);
+    void add_to_playlist(const string name, const string path);
+    void add_to_playlist(const string name, list<string> paths);
+    void insert_playlist(const string name, const string source="");
 
+    void update_track(const song s);
+    void set_playlist_current(const string name, const int current);
+
+    void remove_track(const string path);
+    void remove_from_playlist(const string name, const string path);
+    void remove_from_playlist(const string name, const list<string> paths);
+    void remove_playlist(const string name);
+
+    song select_track(const string path);
+    list<string> select_playlist(const string path);
+    list<string> select_where(const song s);
+    list<string> select_like(const song s);
+    string get_playlist_source(const string name);
+    int get_playlist_current(const string name);
+
+    list<pair<string, string>> influences();
+    list<string> artists();
+    void update_duration(song* s);
+    void update_duration(string path, double d);
+    list<string> tables();
+    const bool empty_queue() { return queue_empty; };
+  protected:
+
+  private:
+    db();
+    static db *m_instance;
+    sqlite3 *sql;
+    queue<string> queries;
+    void monitor(void);
+    void push(string q);
+    mutex m_mutex;
+    condition_variable cv;
+    static string escape(const string);
+    static string more(bool b);
+    bool queue_empty;
 };
 
 #endif // DB_H

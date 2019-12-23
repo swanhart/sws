@@ -1,0 +1,30 @@
+AC_INIT(sws, 0.1)
+AC_PREREQ(2.5)
+AC_CONFIG_SRCDIR(src/main.c)
+AC_CONFIG_AUX_DIR(config)
+AM_INIT_AUTOMAKE(1.8)
+AC_PROG_CC
+AC_PROG_INSTALL
+AC_PROG_LN_S
+AC_PROG_RANLIB
+AC_CHECK_PROGS(regex_cmd, sed)
+if test x$regex_cmd = "x" ; then
+    AC_MSG_ERROR([sed is required to build the data files.])
+fi
+AC_C_CONST
+AC_C_INLINE
+AC_HEADER_STDC
+AC_HEADER_DIRENT
+AC_CHECK_HEADERS([stdlib.h stdio.h libintl.h locale.h])
+PKG_CHECK_MODULES(GSTREAMER, gstreamermm-1.0)
+PKG_CHECK_MODULES(SQLITE3, sqlite3)
+PKG_CHECK_MODULES(LIBUDEV, libudev)
+PKG_CHECK_MODULES(TAGLIB, taglib)
+PKG_CHECK_MODULES(LIBCURL, libcurl)
+PKG_CHECK_MODULES(JSONCPP, jsoncpp)
+PKG_CHECK_MODULES(DBUS-C++, dbus-c++-1)
+PKG_CHECK_MODULES(GLIBMM, glibmm-2.4)
+AC_CHECK_FUNCS([setlocale strtol])
+AM_CONFIG_HEADER(config.h)
+AC_OUTPUT(Makefile)
+

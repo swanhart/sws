@@ -1,8 +1,17 @@
+#include <iostream>
+#include <libudev.h>
+#include <boost/assign.hpp>
+#include <boost/filesystem.hpp>
+#include <boost/property_tree/json_parser.hpp>
+#include <boost/property_tree/ptree.hpp>
+#include <boost/foreach.hpp>
+
+#include "utility.h"
 #include "joystick.h"
 
 
 using namespace std;
-std::string joystick::default_joystick_config = "{\"joysticks\":{\"default\":{\"noop\":-1,\"next\":204,\"previous\":304,\"stop\":8,\"play\":9,\"pause\":109,\"rewind\":0,\"fastforward\":2,\"shuffle\":7,\"favorite\":1,\"add_to_playlist\":3,\"volume_up\":301,\"volume_down\":201,\"get_suggestion\":103,\"download\":101,\"menu\":12,\"say\":5,\"confirm\":112,\"playlist_up\":305,\"playlist_down\":205,\"same_artist\":6,\"eof\":-1}}}";
+string joystick::default_joystick_config = "{\"joysticks\":{\"default\":{\"noop\":-1,\"next\":204,\"previous\":304,\"stop\":8,\"play\":9,\"pause\":109,\"rewind\":0,\"fastforward\":2,\"shuffle\":7,\"favorite\":1,\"add_to_playlist\":3,\"volume_up\":301,\"volume_down\":201,\"get_suggestion\":103,\"download\":101,\"menu\":12,\"say\":5,\"confirm\":112,\"playlist_up\":305,\"playlist_down\":205,\"same_artist\":6,\"eof\":-1}}}";
 joystick *joystick::m_joystick = NULL;
 string joystick::dev_path = "/dev/input/js0";
 int joystick::fd_joystick = open("/dev/input/js0", O_RDONLY| O_NONBLOCK);
@@ -18,7 +27,7 @@ unsigned long joystick::product_id = 0;
 std::map<std::string, joystick::ACTION_TYPE> joystick::actions = boost::assign::map_list_of("noop", noop)("next", next)("previous", previous)("stop", stop)("play", play)\
     ("pause", pause)("rewind", rewind)("fastforward", fastforward)("shuffle", shuffle)("favorite", favorite)("add_to_playlist", add_to_playlist)("volume_up", volume_up)\
     ("volume_down", volume_down)("get_suggestion", get_suggestion)("download", download)("menu", menu)("say", say)("playlist_up", playlist_up)("playlist_down", playlist_down)\
-    ("same_artist", same_artist)("confirm", confirm)("eof", eof);
+    ("same_artist", same_artist)("delete_", delete_)("confirm", confirm)("eof", eof);
 
 joystick::joystick()
 {
@@ -58,7 +67,7 @@ void joystick::js_plug(struct udev_device* dev)
     fd_joystick = open(dev_path.c_str(), O_RDONLY | O_NONBLOCK);
     cout << dev_path <<endl;
     reconnect();
-    cout << "DevType: " << udev_device_get_devtype(dev) << endl;
+    //cout << "DevType: " << string(udev_device_get_devtype(dev)) << endl;
     struct udev_device *parent = udev_device_get_parent_with_subsystem_devtype(dev, "usb", "usb_device");
     unsigned long ven = strtoul(udev_device_get_sysattr_value(parent, "idVendor"), NULL, 16 );
     unsigned long pro = strtoul(udev_device_get_sysattr_value(parent, "idProduct"), NULL, 16);
@@ -115,7 +124,7 @@ boost::signals2::connection joystick::listen(const joystick::signal_t::slot_type
   return m_signal.connect(subscriber);
 }
 
-const joystick::ACTION_TYPE joystick::get_event()
+joystick::ACTION_TYPE const joystick::get_event()
 {
   return joystick_event;
 }
@@ -188,7 +197,7 @@ void joystick::get_hwids_by_path(std::string path, unsigned long *vend_id, unsig
     if (c != NULL && strcmp(c, dev_path.c_str()) == 0)
     {
       cout << p << "\t" << c << endl;
-      cout << "DevType: " << udev_device_get_devtype(udev_device_get_parent(dev)) << endl;
+      //cout << "DevType: " << udev_device_get_devtype(udev_device_get_parent(dev)) << endl;
       struct udev_device *parent = udev_device_get_parent_with_subsystem_devtype(dev, "usb", "usb_device");
       unsigned long ven = strtoul(udev_device_get_sysattr_value(parent, "idVendor"), NULL, 16 );
       unsigned long pro = strtoul(udev_device_get_sysattr_value(parent, "idProduct"), NULL, 16);
@@ -204,7 +213,7 @@ void joystick::get_hwids_by_path(std::string path, unsigned long *vend_id, unsig
 
 void joystick::load_config()
 {
-  cout << "Looading joystick config" << endl;
+  cout << "Loading joystick config" << endl;
   config *c = config::get_instance();
   boost::filesystem::path p(c->root + (string) "joystick.conf");
   using namespace boost::property_tree;
@@ -216,6 +225,12 @@ void joystick::load_config()
   }
   std::stringstream ss;
   ss << std::setfill('0') << std::setw(4) << std::hex << vendor_id << std::setfill('0') << std::setw(4) << std::hex << product_id;
+  if (!boost::filesystem::exists(p))
+  {
+    ofstream ofs(p.string(), ifstream::out);
+    ofs << default_joystick_config;
+    ofs.close();
+  }
   read_json(p.string(), parent);
   pt = parent.get_child("joysticks");
   ptree::const_assoc_iterator itp = pt.find(ss.str());

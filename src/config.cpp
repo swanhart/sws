@@ -1,9 +1,14 @@
+#include <linux/limits.h>
+#include <unistd.h>
+
+#include "utility.h"
 #include "config.h"
 
 using namespace std;
 namespace fs = boost::filesystem;
 
 config *config::m_instance = NULL;
+
 
 config::config()
 {
@@ -22,6 +27,8 @@ config::config()
     put("root", root);
     put("db_file", root + prog_name + (string) ".sqlite");
     put("confirm", true);
+    put("music_root", "/media/");
+    put("current_playlist", "db_catalog");
     save_config_settings();
   }
 }
@@ -44,14 +51,16 @@ void config::save_config_settings()
 void config::set_program_name()
 {
   char *p = (char*)malloc(PATH_MAX);
-  if (p != NULL)
+  if (readlink("/proc/self/exe", p, PATH_MAX) < 0)
   {
-    if (readlink("/proc/self/exe", p, PATH_MAX) == -1)
-      {
-        free(p);
-        p = NULL;
-      }
+     perror("lstat");
+     p = { 0 };
   }
   boost::filesystem::path pn(p);
-  prog_name = pn.filename().string();
+  if (!boost::filesystem::exists(pn)) set_program_name();
+  else
+  {
+    prog_name = pn.filename().string();
+  }
 }
+
